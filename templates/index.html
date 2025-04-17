@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Destekli Profesyonel Dosya Asistanı</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        :root {
+            --primary-color: #6a11cb;
+            --secondary-color: #2575fc;
+            --accent-color: #ff3e9d;
+            --dark-color: #1a1a2e;
+            --light-color: #f8f9fa;
+        }
+        
+        body {
+            background: linear-gradient(135deg, var(--dark-color), var(--primary-color));
+            color: var(--light-color);
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            min-height: 100vh;
+            overflow-x: hidden;
+        }
+        
+        .hero-section {
+            background: rgba(26, 26, 46, 0.8);
+            backdrop-filter: blur(10px);
+            border-radius: 20px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+            padding: 3rem;
+            margin-top: 5rem;
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            transition: all 0.5s ease;
+        }
+        
+        .hero-section:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 15px 40px rgba(0, 0, 0, 0.4);
+        }
+        
+        .upload-container {
+            position: relative;
+            border: 2px dashed rgba(255, 255, 255, 0.3);
+            border-radius: 15px;
+            padding: 2rem;
+            transition: all 0.3s ease;
+            background: rgba(255, 255, 255, 0.05);
+        }
+        
+        .upload-container:hover {
+            border-color: var(--accent-color);
+            background: rgba(255, 255, 255, 0.1);
+        }
+        
+        .btn-ai {
+            background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+            border: none;
+            padding: 0.8rem 2.5rem;
+            font-size: 1.1rem;
+            font-weight: 600;
+            border-radius: 50px;
+            transition: all 0.3s ease;
+            box-shadow: 0 5px 15px rgba(106, 17, 203, 0.4);
+        }
+        
+        .btn-ai:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 8px 25px rgba(106, 17, 203, 0.6);
+        }
+        
+        .feature-card {
+            background: rgba(255, 255, 255, 0.05);
+            border-radius: 15px;
+            padding: 1.5rem;
+            margin-bottom: 1.5rem;
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            transition: all 0.3s ease;
+            height: 100%;
+        }
+        
+        .feature-card:hover {
+            transform: translateY(-5px);
+            background: rgba(255, 255, 255, 0.1);
+            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+        }
+        
+        .ai-assistant-btn {
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            width: 70px;
+            height: 70px;
+            background: linear-gradient(135deg, var(--primary-color), var(--accent-color));
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.5rem;
+            color: white;
+            box-shadow: 0 5px 20px rgba(106, 17, 203, 0.5);
+            cursor: pointer;
+            z-index: 1000;
+            animation: pulse 2s infinite;
+        }
+        
+        @keyframes pulse {
+            0% { transform: scale(1); }
+            50% { transform: scale(1.1); }
+            100% { transform: scale(1); }
+        }
+        
+        .file-types {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            justify-content: center;
+            margin-top: 1rem;
+        }
+        
+        .file-type-badge {
+            background: rgba(255, 255, 255, 0.1);
+            padding: 0.5rem 1rem;
+            border-radius: 50px;
+            font-size: 0.8rem;
+            border: 1px solid rgba(255, 255, 255, 0.2);
+        }
+        
+        .faq-button {
+            position: fixed;
+            bottom: 50px;
+            right: 30px;
+            width: 70px;
+            height: 70px;
+            background: linear-gradient(135deg, var(--secondary-color), var(--accent-color));
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.5rem;
+            color: white;
+            box-shadow: 0 5px 20px rgba(37, 117, 252, 0.5);
+            cursor: pointer;
+            z-index: 1000;
+            animation: bounce 2s infinite;
+        }
+        
+        @keyframes bounce {
+            0%, 100% { transform: translateY(0); }
+            50% { transform: translateY(-10px); }
+        }
+        
+        .faq-modal {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.8);
+            display: none;
+            justify-content: center;
+            align-items: center;
+            z-index: 2000;
+        }
+        
+        .faq-content {
+            background: var(--dark-color);
+            border-radius: 15px;
+            width: 90%;
+            max-width: 1000px;
+            height: 120vh;
+            padding: 2rem;
+            position: relative;
+        }
+        
+        .close-btn {
+            position: absolute;
+            top: 65px;
+            right: 22px;
+            color: var(--accent-color);
+            font-size: 5rem;
+            cursor: pointer;
+            background: none;
+            border: none;
+        }
+        
+        .faq-iframe {
+            width: 100%;
+            height: calc(100% - 40px);
+            border: none;
+            border-radius: 10px;
+        }
+    </style>
+</head>
+<body>
+   
+    
+    <!-- SSS Butonu -->
+    <div class="faq-button" onclick="toggleFAQ()">
+        <i class="fas fa-robot"></i>
+
+    </div>
+    
+    <!-- SSS Modal -->
+    <div class="faq-modal" id="faqModal">
+        <div class="faq-content">
+            
+            <button class="close-btn" onclick="toggleFAQ()">&times;</button>
+            <iframe src="../../static/chatbot/frontend/index.html" class="faq-iframe"></iframe>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-8">
+                <div class="hero-section text-center">
+                    <h1 class="display-4 fw-bold mb-4">
+                        <i class="fas fa-brain me-2"></i>AI Destekli Dosya Asistanı
+                    </h1>
+                    <p class="lead mb-5">Profesyonel dosya analizi, özetleme ve akıllı işlemler için yapay zeka destekli çözüm</p>
+                    
+                    <div class="upload-container">
+                        <form method="POST" enctype="multipart/form-data" id="uploadForm">
+                            <div class="mb-4">
+                                <label for="fileInput" class="form-label">
+                                    <i class="fas fa-cloud-upload-alt fa-3x mb-3"></i>
+                                    <h4>Analiz için dosyanızı yükleyin</h4>
+                                </label>
+                                <input class="form-control" type="file" id="fileInput" name="file" required>
+                            </div>
+                            <button type="submit" class="btn btn-ai">
+                                <i class="fas fa-magic me-2"></i>Akıllı Analiz Yap
+                            </button>
+                        </form>
+                    </div>
+                    
+                    <div class="file-types mt-4">
+                        <span class="file-type-badge"><i class="fas fa-file-pdf me-1"></i>PDF</span>
+                        <span class="file-type-badge"><i class="fas fa-file-word me-1"></i>Word</span>
+                        <span class="file-type-badge"><i class="fas fa-file-excel me-1"></i>Excel</span>
+                        <span class="file-type-badge"><i class="fas fa-file-powerpoint me-1"></i>PowerPoint</span>
+                        <span class="file-type-badge"><i class="fas fa-file-image me-1"></i>Resim</span>
+                        <span class="file-type-badge"><i class="fas fa-file-alt me-1"></i>TXT</span>
+                        <span class="file-type-badge"><i class="fas fa-file-code me-1"></i>HTML</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="row mt-5">
+            <div class="col-md-4">
+                <div class="feature-card">
+                    <div class="text-center mb-3">
+                        <i class="fas fa-file-contract fa-3x" style="color: var(--accent-color);"></i>
+                    </div>
+                    <h4 class="text-center">Yasal Analiz</h4>
+                    <p class="text-center">Dosyalarınızdaki yasal maddeleri otomatik tanımlar ve ilgili mevzuatla eşleştirir</p>
+                </div>
+            </div>
+            
+            <div class="col-md-4">
+                <div class="feature-card">
+                    <div class="text-center mb-3">
+                        <i class="fas fa-robot fa-3x" style="color: var(--secondary-color);"></i>
+                    </div>
+                    <h4 class="text-center">Akıllı Özetleme</h4>
+                    <p class="text-center">Uzun dokümanları anlam kaybı olmadan profesyonel şekilde özetler</p>
+                </div>
+            </div>
+            
+            <div class="col-md-4">
+                <div class="feature-card">
+                    <div class="text-center mb-3">
+                        <i class="fas fa-chart-pie fa-3x" style="color: var(--primary-color);"></i>
+                    </div>
+                    <h4 class="text-center">Veri Analizi</h4>
+                    <p class="text-center">Dosyalarınızdaki önemli verileri çıkarır ve görselleştirir</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        function toggleFAQ() {
+            const modal = document.getElementById('faqModal');
+            if (modal.style.display === 'flex') {
+                modal.style.display = 'none';
+            } else {
+                modal.style.display = 'flex';
+            }
+        }
+        
+        // Dosya yükleme animasyonu
+        document.getElementById('uploadForm').addEventListener('submit', function() {
+            const button = this.querySelector('button[type="submit"]');
+            button.innerHTML = '<i class="fas fa-spinner fa-spin me-2"></i>Analiz Ediliyor...';
+            button.disabled = true;
+        });
+    </script>
+        <script src="https://cdn.socket.io/4.6.1/socket.io.min.js"></script>
+        <script src="../static/chatbot/frontend/socket.io/socket.io.js"></script>
+</body>
+</html>

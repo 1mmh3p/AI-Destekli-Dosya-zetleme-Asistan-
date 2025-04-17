@@ -1,0 +1,834 @@
+2025-04-17 02:03:47,287 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-04-17 02:03:47,289 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: paraphrase-multilingual-MiniLM-L12-v2
+2025-04-17 02:03:57,524 - __main__ - ERROR - Yasal veritabaný yüklenirken hata: [Errno 2] No such file or directory: '/data/legal_database.json'
+2025-04-17 02:03:58,151 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+2025-04-17 02:03:58,151 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-17 02:03:58,182 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-17 02:04:59,076 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-04-17 02:04:59,080 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: paraphrase-multilingual-MiniLM-L12-v2
+2025-04-17 02:05:08,288 - __main__ - ERROR - Yasal veritabaný yüklenirken hata: [Errno 2] No such file or directory: '/data/legal_database.json'
+2025-04-17 02:05:09,240 - werkzeug - WARNING -  * Debugger is active!
+2025-04-17 02:05:09,256 - werkzeug - INFO -  * Debugger PIN: 962-968-139
+2025-04-17 02:05:10,180 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 02:05:10] "GET / HTTP/1.1" 200 -
+2025-04-17 02:05:10,806 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 02:05:10] "[33mGET /static/chatbot/frontend/index.html HTTP/1.1[0m" 404 -
+2025-04-17 02:05:10,940 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 02:05:10] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-17 02:06:42,891 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 02:06:42] "GET / HTTP/1.1" 200 -
+2025-04-17 02:06:43,108 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 02:06:43] "[33mGET /static/chatbot/frontend/index.html HTTP/1.1[0m" 404 -
+2025-04-17 02:06:58,168 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 02:06:58] "GET / HTTP/1.1" 200 -
+2025-04-17 02:06:58,474 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 02:06:58] "[33mGET /static/chatbot/frontend/index.html HTTP/1.1[0m" 404 -
+2025-04-17 02:08:00,265 - werkzeug - INFO -  * Detected change in 'C:\\Users\\musts\\Desktop\\AI_Destekli_Dosya_Özetleme_Ýþ_Asistaný\\index\\app.py', reloading
+2025-04-17 02:08:00,265 - werkzeug - INFO -  * Detected change in 'C:\\Users\\musts\\Desktop\\AI_Destekli_Dosya_Özetleme_Ýþ_Asistaný\\index\\app.py', reloading
+2025-04-17 02:08:00,550 - werkzeug - INFO -  * Detected change in 'C:\\Users\\musts\\Desktop\\AI_Destekli_Dosya_Özetleme_Ýþ_Asistaný\\index\\app.py', reloading
+2025-04-17 02:08:00,551 - werkzeug - INFO -  * Detected change in 'C:\\Users\\musts\\Desktop\\AI_Destekli_Dosya_Özetleme_Ýþ_Asistaný\\index\\app.py', reloading
+2025-04-17 02:08:09,081 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-17 02:08:58,602 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-04-17 02:08:58,602 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: paraphrase-multilingual-MiniLM-L12-v2
+2025-04-17 02:09:06,809 - __main__ - ERROR - Yasal veritabaný yüklenirken hata: [Errno 2] No such file or directory: '/data/legal_database.json'
+2025-04-17 02:09:07,319 - werkzeug - WARNING -  * Debugger is active!
+2025-04-17 02:09:07,333 - werkzeug - INFO -  * Debugger PIN: 962-968-139
+2025-04-17 02:09:50,642 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 02:09:50] "GET / HTTP/1.1" 200 -
+2025-04-17 02:09:50,783 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 02:09:50] "[33mGET /static/chatbot/frontend/index.html HTTP/1.1[0m" 404 -
+2025-04-17 02:09:58,808 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 02:09:58] "[32mPOST / HTTP/1.1[0m" 302 -
+2025-04-17 02:09:59,472 - __main__ - ERROR - PDF iþleme hatasý: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-04-17 02:09:59,473 - __main__ - ERROR - Metin çýkarma hatasý: PDF iþlenirken hata oluþtu: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-04-17 02:09:59,474 - __main__ - ERROR - Dosya iþleme hatasý: PDF iþlenirken hata oluþtu: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-04-17 02:09:59,476 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 02:09:59] "GET /process/kimlik.pdf HTTP/1.1" 200 -
+2025-04-17 02:10:02,427 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 02:10:02] "GET / HTTP/1.1" 200 -
+2025-04-17 02:10:02,739 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 02:10:02] "[33mGET /static/chatbot/frontend/index.html HTTP/1.1[0m" 404 -
+2025-04-17 02:10:09,815 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 02:10:09] "[32mPOST / HTTP/1.1[0m" 302 -
+2025-04-17 02:10:09,977 - __main__ - ERROR - Yasal madde çýkarma hatasý: [E030] Sentence boundaries unset. You can add the 'sentencizer' component to the pipeline with: `nlp.add_pipe('sentencizer')`. Alternatively, add the dependency parser or sentence recognizer, or set sentence boundaries by setting `doc[i].is_sent_start`.
+2025-04-17 02:10:10,098 - __main__ - ERROR - Yasal madde çýkarma hatasý: [E030] Sentence boundaries unset. You can add the 'sentencizer' component to the pipeline with: `nlp.add_pipe('sentencizer')`. Alternatively, add the dependency parser or sentence recognizer, or set sentence boundaries by setting `doc[i].is_sent_start`.
+2025-04-17 02:10:10,145 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 02:10:10] "GET /process/Mustafa_CV.docx HTTP/1.1" 200 -
+2025-04-17 02:10:15,705 - werkzeug - INFO -  * Detected change in 'c:\\Users\\musts\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\werkzeug\\datastructures\\structures.py', reloading
+2025-04-17 02:10:15,710 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 02:10:15] "[35m[1mPOST /ask HTTP/1.1[0m" 500 -
+2025-04-17 02:21:11,929 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-04-17 02:21:11,930 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: paraphrase-multilingual-MiniLM-L12-v2
+2025-04-17 02:21:21,067 - __main__ - ERROR - Yasal veritabaný yüklenirken hata: [Errno 2] No such file or directory: '/data/legal_database.json'
+2025-04-17 02:21:21,607 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+2025-04-17 02:21:21,607 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-17 02:21:21,630 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-17 02:22:21,995 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-04-17 02:22:21,998 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: paraphrase-multilingual-MiniLM-L12-v2
+2025-04-17 02:22:31,535 - __main__ - ERROR - Yasal veritabaný yüklenirken hata: [Errno 2] No such file or directory: '/data/legal_database.json'
+2025-04-17 02:22:32,336 - werkzeug - WARNING -  * Debugger is active!
+2025-04-17 02:22:32,358 - werkzeug - INFO -  * Debugger PIN: 962-968-139
+2025-04-17 02:22:32,870 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 02:22:32] "GET / HTTP/1.1" 200 -
+2025-04-17 02:22:32,870 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 02:22:32] "GET / HTTP/1.1" 200 -
+2025-04-17 02:22:33,049 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 02:22:33] "[33mGET /static/chatbot/frontend/index.html HTTP/1.1[0m" 404 -
+2025-04-17 02:22:33,263 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 02:22:33] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-17 02:23:27,192 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 02:23:27] "[32mPOST / HTTP/1.1[0m" 302 -
+2025-04-17 02:23:27,737 - __main__ - ERROR - Yasal madde çýkarma hatasý: [E030] Sentence boundaries unset. You can add the 'sentencizer' component to the pipeline with: `nlp.add_pipe('sentencizer')`. Alternatively, add the dependency parser or sentence recognizer, or set sentence boundaries by setting `doc[i].is_sent_start`.
+2025-04-17 02:23:27,871 - __main__ - ERROR - Yasal madde çýkarma hatasý: [E030] Sentence boundaries unset. You can add the 'sentencizer' component to the pipeline with: `nlp.add_pipe('sentencizer')`. Alternatively, add the dependency parser or sentence recognizer, or set sentence boundaries by setting `doc[i].is_sent_start`.
+2025-04-17 02:23:28,076 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 02:23:28] "GET /process/14.3.4_Packet_Tracer_-_Create_a_LAN.docx HTTP/1.1" 200 -
+2025-04-17 02:23:40,479 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 02:23:40] "[35m[1mPOST /ask HTTP/1.1[0m" 500 -
+2025-04-17 02:23:45,088 - __main__ - ERROR - Doðrulama hatasý: 'tuple' object has no attribute 'strip'
+2025-04-17 02:23:45,090 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 02:23:45] "POST /ask HTTP/1.1" 200 -
+2025-04-17 02:23:45,137 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 02:23:45] "[33mGET /answer?filename=14.3.4_Packet_Tracer_-_Create_a_LAN.docx&question=ben%2520mustafa&answer=Cevap%2520bulunamad%25C4%25B1%252C HTTP/1.1[0m" 404 -
+2025-04-17 02:23:47,191 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 02:23:47] "GET / HTTP/1.1" 200 -
+2025-04-17 02:23:47,314 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 02:23:47] "[33mGET /static/chatbot/frontend/index.html HTTP/1.1[0m" 404 -
+2025-04-17 02:29:04,695 - werkzeug - INFO -  * Detected change in 'C:\\Users\\musts\\Desktop\\AI_Destekli_Dosya_Özetleme_Ýþ_Asistaný\\index\\app.py', reloading
+2025-04-17 02:29:04,699 - werkzeug - INFO -  * Detected change in 'C:\\Users\\musts\\Desktop\\AI_Destekli_Dosya_Özetleme_Ýþ_Asistaný\\index\\app.py', reloading
+2025-04-17 02:29:04,702 - werkzeug - INFO -  * Detected change in 'C:\\Users\\musts\\Desktop\\AI_Destekli_Dosya_Özetleme_Ýþ_Asistaný\\index\\app.py', reloading
+2025-04-17 02:35:22,947 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-04-17 02:35:22,947 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: paraphrase-multilingual-MiniLM-L12-v2
+2025-04-17 02:35:31,989 - __main__ - ERROR - Yasal veritabaný yüklenirken hata: [Errno 2] No such file or directory: '/data/legal_database.json'
+2025-04-17 02:35:32,604 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+2025-04-17 02:35:32,606 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-17 02:35:32,629 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-17 02:36:27,250 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-04-17 02:36:27,254 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: paraphrase-multilingual-MiniLM-L12-v2
+2025-04-17 02:36:37,102 - __main__ - ERROR - Yasal veritabaný yüklenirken hata: [Errno 2] No such file or directory: '/data/legal_database.json'
+2025-04-17 02:36:38,192 - werkzeug - WARNING -  * Debugger is active!
+2025-04-17 02:36:38,210 - werkzeug - INFO -  * Debugger PIN: 962-968-139
+2025-04-17 02:36:41,823 - werkzeug - INFO -  * Detected change in 'C:\\Users\\musts\\Desktop\\AI_Destekli_Dosya_Özetleme_Ýþ_Asistaný\\index\\app.py', reloading
+2025-04-17 02:36:41,824 - werkzeug - INFO -  * Detected change in 'C:\\Users\\musts\\Desktop\\AI_Destekli_Dosya_Özetleme_Ýþ_Asistaný\\index\\app.py', reloading
+2025-04-17 02:47:30,279 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-04-17 02:47:30,280 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: paraphrase-multilingual-MiniLM-L12-v2
+2025-04-17 02:47:40,046 - __main__ - ERROR - Yasal veritabaný yüklenirken hata: [Errno 2] No such file or directory: '/data/legal_database.json'
+2025-04-17 02:47:40,487 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+2025-04-17 02:47:40,488 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-17 02:47:40,503 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-17 02:48:58,083 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-04-17 02:48:58,084 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: paraphrase-multilingual-MiniLM-L12-v2
+2025-04-17 02:49:12,529 - __main__ - ERROR - Yasal veritabaný yüklenirken hata: [Errno 2] No such file or directory: '/data/legal_database.json'
+2025-04-17 02:49:13,065 - werkzeug - WARNING -  * Debugger is active!
+2025-04-17 02:49:13,077 - werkzeug - INFO -  * Debugger PIN: 962-968-139
+2025-04-17 02:49:13,298 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 02:49:13] "GET / HTTP/1.1" 200 -
+2025-04-17 02:49:13,299 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 02:49:13] "GET / HTTP/1.1" 200 -
+2025-04-17 02:49:13,300 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 02:49:13] "GET / HTTP/1.1" 200 -
+2025-04-17 02:49:13,305 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 02:49:13] "GET / HTTP/1.1" 200 -
+2025-04-17 02:49:13,306 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 02:49:13] "GET / HTTP/1.1" 200 -
+2025-04-17 02:49:13,312 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 02:49:13] "GET / HTTP/1.1" 200 -
+2025-04-17 02:49:13,383 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 02:49:13] "[33mGET /static/chatbot/frontend/index.html HTTP/1.1[0m" 404 -
+2025-04-17 02:50:13,209 - werkzeug - INFO -  * Detected change in 'c:\\Users\\musts\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\cp1254.py', reloading
+2025-04-17 02:50:13,210 - werkzeug - INFO -  * Detected change in 'c:\\Users\\musts\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\watchdog\\events.py', reloading
+2025-04-17 02:50:13,212 - werkzeug - INFO -  * Detected change in 'c:\\Users\\musts\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\watchdog\\observers\\api.py', reloading
+2025-04-17 02:50:13,213 - werkzeug - INFO -  * Detected change in 'c:\\Users\\musts\\.vscode\\extensions\\ms-python.debugpy-2025.6.0-win32-x64\\bundled\\libs\\debugpy\\_vendored\\pydevd\\_pydev_bundle\\pydev_monkey.py', reloading
+2025-04-17 02:55:13,563 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-04-17 02:55:13,564 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: paraphrase-multilingual-MiniLM-L12-v2
+2025-04-17 02:55:24,826 - __main__ - ERROR - Yasal veritabaný yüklenirken hata: [Errno 2] No such file or directory: '/data/legal_database.json'
+2025-04-17 02:55:25,239 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+2025-04-17 02:55:25,240 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-17 02:55:25,252 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-17 02:56:47,965 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-04-17 02:56:47,968 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: paraphrase-multilingual-MiniLM-L12-v2
+2025-04-17 02:57:08,728 - __main__ - ERROR - Yasal veritabaný yüklenirken hata: [Errno 2] No such file or directory: '/data/legal_database.json'
+2025-04-17 02:57:09,513 - werkzeug - WARNING -  * Debugger is active!
+2025-04-17 02:57:09,532 - werkzeug - INFO -  * Debugger PIN: 962-968-139
+2025-04-17 02:57:10,735 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 02:57:10] "GET / HTTP/1.1" 200 -
+2025-04-17 02:57:10,739 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 02:57:10] "GET / HTTP/1.1" 200 -
+2025-04-17 02:57:10,740 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 02:57:10] "GET / HTTP/1.1" 200 -
+2025-04-17 02:57:10,741 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 02:57:10] "GET / HTTP/1.1" 200 -
+2025-04-17 02:57:10,934 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 02:57:10] "GET /static/chatbot/frontend/index.html HTTP/1.1" 200 -
+2025-04-17 02:57:10,975 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 02:57:10] "GET /static/chatbot/frontend/styles.css HTTP/1.1" 200 -
+2025-04-17 02:57:10,994 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 02:57:10] "GET /static/chatbot/frontend/script.js HTTP/1.1" 200 -
+2025-04-17 02:57:11,006 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 02:57:11] "[33mGET /socket.io/socket.io.js HTTP/1.1[0m" 404 -
+2025-04-17 02:57:11,019 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 02:57:11] "GET /static/chatbot/frontend/index.html HTTP/1.1" 200 -
+2025-04-17 02:57:11,054 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 02:57:11] "GET /static/chatbot/frontend/styles.css HTTP/1.1" 200 -
+2025-04-17 02:57:11,393 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 02:57:11] "[33mGET /socket.io/socket.io.js HTTP/1.1[0m" 404 -
+2025-04-17 02:57:11,411 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 02:57:11] "GET /static/chatbot/frontend/script.js HTTP/1.1" 200 -
+2025-04-17 02:57:11,660 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 02:57:11] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-17 02:58:03,507 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 02:58:03] "[32mPOST / HTTP/1.1[0m" 302 -
+2025-04-17 02:58:04,179 - __main__ - ERROR - Yasal madde çýkarma hatasý: [E030] Sentence boundaries unset. You can add the 'sentencizer' component to the pipeline with: `nlp.add_pipe('sentencizer')`. Alternatively, add the dependency parser or sentence recognizer, or set sentence boundaries by setting `doc[i].is_sent_start`.
+2025-04-17 02:58:04,321 - __main__ - ERROR - Yasal madde çýkarma hatasý: [E030] Sentence boundaries unset. You can add the 'sentencizer' component to the pipeline with: `nlp.add_pipe('sentencizer')`. Alternatively, add the dependency parser or sentence recognizer, or set sentence boundaries by setting `doc[i].is_sent_start`.
+2025-04-17 02:58:04,425 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 02:58:04] "GET /process/milli-egitim-lise-mezuniyet-belgesi.pdf HTTP/1.1" 200 -
+2025-04-17 02:58:15,014 - __main__ - ERROR - Soru iþleme hatasý: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-04-17 02:58:15,016 - __main__ - ERROR - Soru iþleme hatasý: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-04-17 02:58:15,017 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 02:58:15] "[35m[1mPOST /ask HTTP/1.1[0m" 500 -
+2025-04-17 02:58:15,023 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 02:58:15] "POST /ask HTTP/1.1" 200 -
+2025-04-17 02:58:15,025 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 02:58:15] "[35m[1mPOST /ask HTTP/1.1[0m" 500 -
+2025-04-17 02:58:31,666 - __main__ - ERROR - Soru iþleme hatasý: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-04-17 02:58:31,669 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 02:58:31] "[35m[1mPOST /ask HTTP/1.1[0m" 500 -
+2025-04-17 02:58:31,985 - __main__ - ERROR - Soru iþleme hatasý: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-04-17 02:58:31,988 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 02:58:31] "[35m[1mPOST /ask HTTP/1.1[0m" 500 -
+2025-04-17 02:58:31,994 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 02:58:31] "POST /ask HTTP/1.1" 200 -
+2025-04-17 03:05:37,361 - werkzeug - INFO -  * Detected change in 'c:\\Users\\musts\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\spacy\\__init__.py', reloading
+2025-04-17 03:05:37,365 - werkzeug - INFO -  * Detected change in 'c:\\Users\\musts\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\sentence_transformers\\__init__.py', reloading
+2025-04-17 03:05:37,383 - werkzeug - INFO -  * Detected change in 'c:\\Users\\musts\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\sentence_transformers\\SentenceTransformer.py', reloading
+2025-04-17 03:05:37,453 - werkzeug - INFO -  * Detected change in 'c:\\Users\\musts\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\torch\\__init__.py', reloading
+2025-04-17 03:05:37,854 - werkzeug - INFO -  * Detected change in 'c:\\Users\\musts\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\torch\\functional.py', reloading
+2025-04-17 03:05:37,882 - werkzeug - INFO -  * Detected change in 'c:\\Users\\musts\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\torch\\nn\\__init__.py', reloading
+2025-04-17 03:05:37,907 - werkzeug - INFO -  * Detected change in 'c:\\Users\\musts\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\torch\\nn\\modules\\__init__.py', reloading
+2025-04-17 03:05:37,933 - werkzeug - INFO -  * Detected change in 'c:\\Users\\musts\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\torch\\nn\\modules\\container.py', reloading
+2025-04-17 03:05:37,961 - werkzeug - INFO -  * Detected change in 'c:\\Users\\musts\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\torch\\nn\\modules\\module.py', reloading
+2025-04-17 03:05:38,000 - werkzeug - INFO -  * Detected change in 'c:\\Users\\musts\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\sentence_transformers\\fit_mixin.py', reloading
+2025-04-17 03:05:38,022 - werkzeug - INFO -  * Detected change in 'c:\\Users\\musts\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\sentence_transformers\\peft_mixin.py', reloading
+2025-04-17 03:05:38,030 - werkzeug - INFO -  * Detected change in 'c:\\Users\\musts\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\transformers\\__init__.py', reloading
+2025-04-17 03:05:45,655 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-17 03:06:53,560 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-04-17 03:06:53,561 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: paraphrase-multilingual-MiniLM-L12-v2
+2025-04-17 03:07:04,875 - __main__ - ERROR - Yasal veritabaný yüklenirken hata: [Errno 2] No such file or directory: '/data/legal_database.json'
+2025-04-17 03:07:05,456 - werkzeug - WARNING -  * Debugger is active!
+2025-04-17 03:07:05,470 - werkzeug - INFO -  * Debugger PIN: 962-968-139
+2025-04-17 03:07:59,007 - werkzeug - INFO -  * Detected change in 'C:\\Users\\musts\\Desktop\\AI_Destekli_Dosya_Özetleme_Ýþ_Asistaný\\app.py', reloading
+2025-04-17 03:07:59,009 - werkzeug - INFO -  * Detected change in 'C:\\Users\\musts\\Desktop\\AI_Destekli_Dosya_Özetleme_Ýþ_Asistaný\\app.py', reloading
+2025-04-17 03:08:06,123 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-17 03:09:32,219 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-04-17 03:09:32,220 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: paraphrase-multilingual-MiniLM-L12-v2
+2025-04-17 03:09:54,777 - __main__ - ERROR - Yasal veritabaný yüklenirken hata: [Errno 2] No such file or directory: '/data/legal_database.json'
+2025-04-17 03:09:55,213 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+2025-04-17 03:09:55,213 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-17 03:09:55,226 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-17 03:11:16,249 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-04-17 03:11:16,251 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: paraphrase-multilingual-MiniLM-L12-v2
+2025-04-17 03:11:36,969 - __main__ - ERROR - Yasal veritabaný yüklenirken hata: [Errno 2] No such file or directory: '/data/legal_database.json'
+2025-04-17 03:11:37,884 - werkzeug - WARNING -  * Debugger is active!
+2025-04-17 03:11:37,902 - werkzeug - INFO -  * Debugger PIN: 962-968-139
+2025-04-17 03:11:39,164 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:11:39] "GET / HTTP/1.1" 200 -
+2025-04-17 03:11:39,694 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:11:39] "GET /static/chatbot/socket.io/socket.io.js HTTP/1.1" 200 -
+2025-04-17 03:11:39,694 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:11:39] "GET /static/chatbot/frontend/index.html HTTP/1.1" 200 -
+2025-04-17 03:11:39,864 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:11:39] "[36mGET /static/chatbot/frontend/styles.css HTTP/1.1[0m" 304 -
+2025-04-17 03:11:40,049 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:11:40] "[33mGET /socket.io/socket.io.js HTTP/1.1[0m" 404 -
+2025-04-17 03:11:40,112 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:11:40] "GET /static/chatbot/frontend/script.js HTTP/1.1" 200 -
+2025-04-17 03:13:35,846 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:13:35] "[32mPOST / HTTP/1.1[0m" 302 -
+2025-04-17 03:13:36,937 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:13:36] "GET /process/meb-sertifika-bilgileri-sorgulama.pdf HTTP/1.1" 200 -
+2025-04-17 03:13:37,082 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:13:37] "[36mGET /static/chatbot/socket.io/socket.io.js HTTP/1.1[0m" 304 -
+2025-04-17 03:13:49,467 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:13:49] "[31m[1mPOST /ask HTTP/1.1[0m" 415 -
+2025-04-17 03:13:49,485 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:13:49] "POST /ask HTTP/1.1" 200 -
+2025-04-17 03:13:49,487 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:13:49] "[31m[1mPOST /ask HTTP/1.1[0m" 415 -
+2025-04-17 03:15:17,224 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:15:17] "GET / HTTP/1.1" 200 -
+2025-04-17 03:15:17,533 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:15:17] "[36mGET /static/chatbot/frontend/index.html HTTP/1.1[0m" 304 -
+2025-04-17 03:15:17,628 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:15:17] "[36mGET /static/chatbot/frontend/styles.css HTTP/1.1[0m" 304 -
+2025-04-17 03:15:17,865 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:15:17] "[36mGET /static/chatbot/socket.io/socket.io.js HTTP/1.1[0m" 304 -
+2025-04-17 03:15:17,869 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:15:17] "[33mGET /socket.io/socket.io.js HTTP/1.1[0m" 404 -
+2025-04-17 03:15:17,886 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:15:17] "GET /static/chatbot/frontend/script.js HTTP/1.1" 200 -
+2025-04-17 03:15:59,924 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:15:59] "[32mPOST / HTTP/1.1[0m" 302 -
+2025-04-17 03:16:00,233 - __main__ - ERROR - PDF iþleme hatasý: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-04-17 03:16:00,234 - __main__ - ERROR - Metin çýkarma hatasý: PDF iþlenirken hata oluþtu: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-04-17 03:16:00,234 - __main__ - ERROR - Dosya iþleme hatasý: PDF iþlenirken hata oluþtu: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-04-17 03:16:00,236 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:16:00] "GET /process/mazun_bilgisi.pdf HTTP/1.1" 200 -
+2025-04-17 03:16:01,812 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:16:01] "GET / HTTP/1.1" 200 -
+2025-04-17 03:16:02,130 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:16:02] "[36mGET /static/chatbot/frontend/index.html HTTP/1.1[0m" 304 -
+2025-04-17 03:16:02,274 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:16:02] "[36mGET /static/chatbot/frontend/styles.css HTTP/1.1[0m" 304 -
+2025-04-17 03:16:02,468 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:16:02] "[36mGET /static/chatbot/socket.io/socket.io.js HTTP/1.1[0m" 304 -
+2025-04-17 03:16:02,471 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:16:02] "[33mGET /socket.io/socket.io.js HTTP/1.1[0m" 404 -
+2025-04-17 03:16:02,486 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:16:02] "[36mGET /static/chatbot/frontend/script.js HTTP/1.1[0m" 304 -
+2025-04-17 03:16:07,252 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:16:07] "[32mPOST / HTTP/1.1[0m" 302 -
+2025-04-17 03:16:07,479 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:16:07] "GET /process/yok-ogrenci-belgesi-sorgulama.pdf HTTP/1.1" 200 -
+2025-04-17 03:16:07,569 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:16:07] "[36mGET /static/chatbot/socket.io/socket.io.js HTTP/1.1[0m" 304 -
+2025-04-17 03:16:25,593 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:16:25] "[31m[1mPOST /ask HTTP/1.1[0m" 415 -
+2025-04-17 03:16:25,596 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:16:25] "[31m[1mPOST /ask HTTP/1.1[0m" 415 -
+2025-04-17 03:16:25,599 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:16:25] "POST /ask HTTP/1.1" 200 -
+2025-04-17 03:17:41,823 - werkzeug - INFO -  * Detected change in 'C:\\Users\\musts\\Desktop\\AI_Destekli_Dosya_Özetleme_Ýþ_Asistaný\\app.py', reloading
+2025-04-17 03:17:41,824 - werkzeug - INFO -  * Detected change in 'C:\\Users\\musts\\Desktop\\AI_Destekli_Dosya_Özetleme_Ýþ_Asistaný\\app.py', reloading
+2025-04-17 03:19:27,219 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-17 03:20:36,959 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-04-17 03:20:36,960 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: paraphrase-multilingual-MiniLM-L12-v2
+2025-04-17 03:20:59,490 - __main__ - ERROR - Yasal veritabaný yüklenirken hata: [Errno 2] No such file or directory: '/data/legal_database.json'
+2025-04-17 03:21:00,360 - werkzeug - WARNING -  * Debugger is active!
+2025-04-17 03:21:00,417 - werkzeug - INFO -  * Debugger PIN: 962-968-139
+2025-04-17 03:22:13,840 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:22:13] "GET / HTTP/1.1" 200 -
+2025-04-17 03:22:13,924 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:22:13] "[33mGET /static/chatbot/socket.io/socket.io.js HTTP/1.1[0m" 404 -
+2025-04-17 03:22:13,976 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:22:13] "GET /static/chatbot/frontend/index.html HTTP/1.1" 200 -
+2025-04-17 03:22:14,007 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:22:14] "GET /static/chatbot/frontend/socket.io/socket.io.js HTTP/1.1" 200 -
+2025-04-17 03:22:14,010 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:22:14] "[36mGET /static/chatbot/frontend/styles.css HTTP/1.1[0m" 304 -
+2025-04-17 03:22:14,015 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:22:14] "GET /static/chatbot/frontend/script.js HTTP/1.1" 200 -
+2025-04-17 03:22:20,392 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:22:20] "[32mPOST / HTTP/1.1[0m" 302 -
+2025-04-17 03:22:21,867 - __main__ - ERROR - OCR hatasý: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-04-17 03:22:21,868 - __main__ - ERROR - Metin çýkarma hatasý: Resim iþlenirken hata oluþtu: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-04-17 03:22:21,868 - __main__ - ERROR - Dosya iþleme hatasý: Resim iþlenirken hata oluþtu: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-04-17 03:22:21,872 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:22:21] "GET /process/3.png HTTP/1.1" 200 -
+2025-04-17 03:22:37,761 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:22:37] "GET / HTTP/1.1" 200 -
+2025-04-17 03:22:37,851 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:22:37] "[36mGET /static/chatbot/frontend/index.html HTTP/1.1[0m" 304 -
+2025-04-17 03:22:37,866 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:22:37] "[33mGET /static/chatbot/socket.io/socket.io.js HTTP/1.1[0m" 404 -
+2025-04-17 03:22:37,887 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:22:37] "[36mGET /static/chatbot/frontend/styles.css HTTP/1.1[0m" 304 -
+2025-04-17 03:22:37,895 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:22:37] "[36mGET /static/chatbot/frontend/socket.io/socket.io.js HTTP/1.1[0m" 304 -
+2025-04-17 03:22:37,898 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:22:37] "[36mGET /static/chatbot/frontend/script.js HTTP/1.1[0m" 304 -
+2025-04-17 03:22:47,766 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:22:47] "[32mPOST / HTTP/1.1[0m" 302 -
+2025-04-17 03:22:48,632 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:22:48] "GET /process/NB_Module_9.pdf HTTP/1.1" 200 -
+2025-04-17 03:22:48,697 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:22:48] "[33mGET /static/chatbot/socket.io/socket.io.js HTTP/1.1[0m" 404 -
+2025-04-17 03:22:57,812 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:22:57] "[31m[1mPOST /ask HTTP/1.1[0m" 415 -
+2025-04-17 03:22:57,824 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:22:57] "[31m[1mPOST /ask HTTP/1.1[0m" 415 -
+2025-04-17 03:22:57,834 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:22:57] "POST /ask HTTP/1.1" 200 -
+2025-04-17 03:23:11,696 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:23:11] "[31m[1mPOST /ask HTTP/1.1[0m" 415 -
+2025-04-17 03:23:11,702 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:23:11] "[31m[1mPOST /ask HTTP/1.1[0m" 415 -
+2025-04-17 03:23:11,705 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:23:11] "POST /ask HTTP/1.1" 200 -
+2025-04-17 03:26:18,915 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-04-17 03:26:18,915 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: paraphrase-multilingual-MiniLM-L12-v2
+2025-04-17 03:26:34,960 - __main__ - ERROR - Yasal veritabaný yüklenirken hata: [Errno 2] No such file or directory: '/data/legal_database.json'
+2025-04-17 03:26:35,492 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+2025-04-17 03:26:35,492 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-17 03:26:35,513 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-17 03:27:46,446 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-04-17 03:27:46,450 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: paraphrase-multilingual-MiniLM-L12-v2
+2025-04-17 03:28:02,142 - __main__ - ERROR - Yasal veritabaný yüklenirken hata: [Errno 2] No such file or directory: '/data/legal_database.json'
+2025-04-17 03:28:02,827 - werkzeug - WARNING -  * Debugger is active!
+2025-04-17 03:28:02,845 - werkzeug - INFO -  * Debugger PIN: 962-968-139
+2025-04-17 03:28:03,348 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:28:03] "GET / HTTP/1.1" 200 -
+2025-04-17 03:28:12,573 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:28:12] "GET / HTTP/1.1" 200 -
+2025-04-17 03:28:12,694 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:28:12] "[36mGET /static/chatbot/frontend/index.html HTTP/1.1[0m" 304 -
+2025-04-17 03:34:55,445 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:34:55] "[31m[1mPOST / HTTP/1.1[0m" 415 -
+2025-04-17 03:35:13,400 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:35:13] "[31m[1mPOST / HTTP/1.1[0m" 415 -
+2025-04-17 03:35:16,618 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:35:16] "GET / HTTP/1.1" 200 -
+2025-04-17 03:35:16,669 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:35:16] "[36mGET /static/chatbot/frontend/index.html HTTP/1.1[0m" 304 -
+2025-04-17 03:35:16,684 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:35:16] "[33mGET /static/chatbot/socket.io/socket.io.js HTTP/1.1[0m" 404 -
+2025-04-17 03:35:16,707 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:35:16] "[36mGET /static/chatbot/frontend/styles.css HTTP/1.1[0m" 304 -
+2025-04-17 03:35:16,715 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:35:16] "[36mGET /static/chatbot/frontend/socket.io/socket.io.js HTTP/1.1[0m" 304 -
+2025-04-17 03:35:16,717 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:35:16] "GET /static/chatbot/frontend/script.js HTTP/1.1" 200 -
+2025-04-17 03:35:24,672 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:35:24] "[31m[1mPOST / HTTP/1.1[0m" 415 -
+2025-04-17 03:35:35,841 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:35:35] "[31m[1mPOST / HTTP/1.1[0m" 415 -
+2025-04-17 03:35:51,151 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:35:51] "[31m[1mPOST / HTTP/1.1[0m" 415 -
+2025-04-17 03:37:07,227 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:37:07] "[31m[1mPOST / HTTP/1.1[0m" 415 -
+2025-04-17 03:37:08,862 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:37:08] "GET / HTTP/1.1" 200 -
+2025-04-17 03:37:08,996 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:37:08] "[36mGET /static/chatbot/frontend/index.html HTTP/1.1[0m" 304 -
+2025-04-17 03:37:08,999 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:37:08] "[33mGET /static/chatbot/socket.io/socket.io.js HTTP/1.1[0m" 404 -
+2025-04-17 03:37:09,032 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:37:09] "[36mGET /static/chatbot/frontend/styles.css HTTP/1.1[0m" 304 -
+2025-04-17 03:37:09,040 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:37:09] "[36mGET /static/chatbot/frontend/socket.io/socket.io.js HTTP/1.1[0m" 304 -
+2025-04-17 03:37:09,048 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:37:09] "GET /static/chatbot/frontend/script.js HTTP/1.1" 200 -
+2025-04-17 03:37:14,050 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:37:14] "[31m[1mPOST / HTTP/1.1[0m" 415 -
+2025-04-17 03:37:24,892 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:37:24] "[31m[1mPOST / HTTP/1.1[0m" 415 -
+2025-04-17 03:39:49,782 - werkzeug - INFO -  * Detected change in 'C:\\Users\\musts\\Desktop\\AI_Destekli_Dosya_Özetleme_Ýþ_Asistaný\\app.py', reloading
+2025-04-17 03:39:49,783 - werkzeug - INFO -  * Detected change in 'C:\\Users\\musts\\Desktop\\AI_Destekli_Dosya_Özetleme_Ýþ_Asistaný\\app.py', reloading
+2025-04-17 03:39:49,784 - werkzeug - INFO -  * Detected change in 'C:\\Users\\musts\\Desktop\\AI_Destekli_Dosya_Özetleme_Ýþ_Asistaný\\app.py', reloading
+2025-04-17 03:40:17,217 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-17 03:41:43,993 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-04-17 03:41:43,993 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: paraphrase-multilingual-MiniLM-L12-v2
+2025-04-17 03:42:04,937 - __main__ - ERROR - Yasal veritabaný yüklenirken hata: [Errno 2] No such file or directory: '/data/legal_database.json'
+2025-04-17 03:42:05,450 - werkzeug - WARNING -  * Debugger is active!
+2025-04-17 03:42:05,461 - werkzeug - INFO -  * Debugger PIN: 962-968-139
+2025-04-17 03:42:05,534 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:42:05] "GET / HTTP/1.1" 200 -
+2025-04-17 03:42:05,555 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:42:05] "[32mPOST / HTTP/1.1[0m" 302 -
+2025-04-17 03:42:05,604 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:42:05] "[33mGET /static/chatbot/socket.io/socket.io.js HTTP/1.1[0m" 404 -
+2025-04-17 03:42:05,643 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:42:05] "[36mGET /static/chatbot/frontend/index.html HTTP/1.1[0m" 304 -
+2025-04-17 03:42:05,662 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:42:05] "[36mGET /static/chatbot/frontend/styles.css HTTP/1.1[0m" 304 -
+2025-04-17 03:42:05,667 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:42:05] "[36mGET /static/chatbot/frontend/socket.io/socket.io.js HTTP/1.1[0m" 304 -
+2025-04-17 03:42:05,697 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:42:05] "GET /static/chatbot/frontend/script.js HTTP/1.1" 200 -
+2025-04-17 03:42:20,464 - werkzeug - INFO -  * Detected change in 'C:\\Users\\musts\\Desktop\\AI_Destekli_Dosya_Özetleme_Ýþ_Asistaný\\app.py', reloading
+2025-04-17 03:42:20,465 - werkzeug - INFO -  * Detected change in 'C:\\Users\\musts\\Desktop\\AI_Destekli_Dosya_Özetleme_Ýþ_Asistaný\\app.py', reloading
+2025-04-17 03:42:20,466 - werkzeug - INFO -  * Detected change in 'C:\\Users\\musts\\Desktop\\AI_Destekli_Dosya_Özetleme_Ýþ_Asistaný\\app.py', reloading
+2025-04-17 03:42:35,288 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-17 03:43:41,865 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-04-17 03:43:41,865 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: paraphrase-multilingual-MiniLM-L12-v2
+2025-04-17 03:43:52,174 - __main__ - ERROR - Yasal veritabaný yüklenirken hata: [Errno 2] No such file or directory: '/data/legal_database.json'
+2025-04-17 03:43:52,726 - werkzeug - WARNING -  * Debugger is active!
+2025-04-17 03:43:52,734 - werkzeug - INFO -  * Debugger PIN: 962-968-139
+2025-04-17 03:43:52,793 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:43:52] "[32mGET /process/3.png HTTP/1.1[0m" 302 -
+2025-04-17 03:43:52,813 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:43:52] "[32mPOST / HTTP/1.1[0m" 302 -
+2025-04-17 03:43:52,918 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:43:52] "[36mGET /static/chatbot/frontend/index.html HTTP/1.1[0m" 304 -
+2025-04-17 03:43:54,295 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:43:54] "GET / HTTP/1.1" 200 -
+2025-04-17 03:43:54,403 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:43:54] "[36mGET /static/chatbot/frontend/index.html HTTP/1.1[0m" 304 -
+2025-04-17 03:43:54,413 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:43:54] "[33mGET /static/chatbot/socket.io/socket.io.js HTTP/1.1[0m" 404 -
+2025-04-17 03:43:54,445 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:43:54] "[36mGET /static/chatbot/frontend/styles.css HTTP/1.1[0m" 304 -
+2025-04-17 03:43:54,451 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:43:54] "[36mGET /static/chatbot/frontend/socket.io/socket.io.js HTTP/1.1[0m" 304 -
+2025-04-17 03:43:54,461 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:43:54] "[36mGET /static/chatbot/frontend/script.js HTTP/1.1[0m" 304 -
+2025-04-17 03:44:03,717 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:44:03] "[32mPOST / HTTP/1.1[0m" 302 -
+2025-04-17 03:44:04,817 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:44:04] "GET /process/Kira_Sozlesmesi.docx HTTP/1.1" 200 -
+2025-04-17 03:44:04,872 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:44:04] "[36mGET /static/chatbot/frontend/socket.io/socket.io.js HTTP/1.1[0m" 304 -
+2025-04-17 03:44:14,532 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:44:14] "[31m[1mPOST /ask HTTP/1.1[0m" 415 -
+2025-04-17 03:44:14,549 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:44:14] "[31m[1mPOST /ask HTTP/1.1[0m" 415 -
+2025-04-17 03:44:14,561 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:44:14] "POST /ask HTTP/1.1" 200 -
+2025-04-17 03:45:43,608 - werkzeug - INFO -  * Detected change in 'c:\\Users\\musts\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\flask\\sessions.py', reloading
+2025-04-17 03:45:43,636 - werkzeug - INFO -  * Detected change in 'c:\\Users\\musts\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fitz\\__init__.py', reloading
+2025-04-17 03:45:43,651 - werkzeug - INFO -  * Detected change in 'c:\\Users\\musts\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pymupdf\\__init__.py', reloading
+2025-04-17 03:50:52,534 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-04-17 03:50:52,534 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: paraphrase-multilingual-MiniLM-L12-v2
+2025-04-17 03:51:07,247 - __main__ - ERROR - Yasal veritabaný yüklenirken hata: [Errno 2] No such file or directory: '/data/legal_database.json'
+2025-04-17 03:51:07,833 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+2025-04-17 03:51:07,833 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-17 03:51:07,862 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-17 03:52:20,678 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-04-17 03:52:20,681 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: paraphrase-multilingual-MiniLM-L12-v2
+2025-04-17 03:52:32,686 - __main__ - ERROR - Yasal veritabaný yüklenirken hata: [Errno 2] No such file or directory: '/data/legal_database.json'
+2025-04-17 03:52:33,643 - werkzeug - WARNING -  * Debugger is active!
+2025-04-17 03:52:33,665 - werkzeug - INFO -  * Debugger PIN: 962-968-139
+2025-04-17 03:52:34,444 - __main__ - ERROR - Dosya iþleme hatasý: [Errno 2] No such file or directory: 'uploads/14.3.4_Packet_Tracer_-_Create_a_LAN.docx'
+2025-04-17 03:52:34,445 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:52:34] "OPTIONS /ask HTTP/1.1" 200 -
+2025-04-17 03:52:34,448 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:52:34] "OPTIONS /ask HTTP/1.1" 200 -
+2025-04-17 03:52:34,475 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:52:34] "GET / HTTP/1.1" 200 -
+2025-04-17 03:52:34,481 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:52:34] "OPTIONS /ask HTTP/1.1" 200 -
+2025-04-17 03:52:34,490 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:52:34] "GET / HTTP/1.1" 200 -
+2025-04-17 03:52:34,493 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:52:34] "OPTIONS /ask HTTP/1.1" 200 -
+2025-04-17 03:52:34,496 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:52:34] "GET /process/14.3.4_Packet_Tracer_-_Create_a_LAN.docx HTTP/1.1" 200 -
+2025-04-17 03:52:34,503 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:52:34] "GET / HTTP/1.1" 200 -
+2025-04-17 03:52:34,513 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:52:34] "GET / HTTP/1.1" 200 -
+2025-04-17 03:52:34,596 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:52:34] "[33mGET /static/chatbot/socket.io/socket.io.js HTTP/1.1[0m" 404 -
+2025-04-17 03:52:34,661 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:52:34] "[36mGET /static/chatbot/frontend/index.html HTTP/1.1[0m" 304 -
+2025-04-17 03:52:34,729 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:52:34] "[36mGET /static/chatbot/frontend/styles.css HTTP/1.1[0m" 304 -
+2025-04-17 03:52:34,734 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:52:34] "[36mGET /static/chatbot/frontend/socket.io/socket.io.js HTTP/1.1[0m" 304 -
+2025-04-17 03:52:34,843 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:52:34] "GET /static/chatbot/frontend/script.js HTTP/1.1" 200 -
+2025-04-17 03:52:35,164 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:52:35] "OPTIONS /ask HTTP/1.1" 200 -
+2025-04-17 03:52:42,347 - __main__ - WARNING - Invalid content type for /. Received: multipart/form-data; boundary=----WebKitFormBoundaryLH4ZCpMpvh0H76vQ, Expected: application/json
+2025-04-17 03:52:42,349 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:52:42] "[31m[1mPOST / HTTP/1.1[0m" 415 -
+2025-04-17 03:53:33,857 - werkzeug - INFO -  * Detected change in 'c:\\Users\\musts\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\flask\\config.py', reloading
+2025-04-17 03:57:13,349 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-17 03:58:03,898 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-04-17 03:58:03,898 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: paraphrase-multilingual-MiniLM-L12-v2
+2025-04-17 03:58:13,257 - __main__ - ERROR - Yasal veritabaný yüklenirken hata: [Errno 2] No such file or directory: '/data/legal_database.json'
+2025-04-17 03:58:13,844 - werkzeug - WARNING -  * Debugger is active!
+2025-04-17 03:58:13,862 - werkzeug - INFO -  * Debugger PIN: 962-968-139
+2025-04-17 03:58:13,948 - __main__ - WARNING - Invalid content type for /. Received: multipart/form-data; boundary=----WebKitFormBoundarylFtMBBdUG0hoagWv, Expected: application/json
+2025-04-17 03:58:13,951 - __main__ - WARNING - Invalid content type for /. Received: multipart/form-data; boundary=----WebKitFormBoundaryDEvytAS4VTQmuOII, Expected: application/json
+2025-04-17 03:58:13,953 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:58:13] "[31m[1mPOST / HTTP/1.1[0m" 415 -
+2025-04-17 03:58:13,955 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:58:13] "[31m[1mPOST / HTTP/1.1[0m" 415 -
+2025-04-17 03:58:13,959 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:58:13] "OPTIONS /ask HTTP/1.1" 200 -
+2025-04-17 03:58:13,960 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:58:13] "OPTIONS /ask HTTP/1.1" 200 -
+2025-04-17 03:58:19,923 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 03:58:19] "OPTIONS /ask HTTP/1.1" 200 -
+2025-04-17 04:02:15,840 - werkzeug - INFO -  * Detected change in 'C:\\Users\\musts\\Desktop\\AI_Destekli_Dosya_Özetleme_Ýþ_Asistaný\\app.py', reloading
+2025-04-17 04:02:15,842 - werkzeug - INFO -  * Detected change in 'C:\\Users\\musts\\Desktop\\AI_Destekli_Dosya_Özetleme_Ýþ_Asistaný\\app.py', reloading
+2025-04-17 04:02:15,844 - werkzeug - INFO -  * Detected change in 'C:\\Users\\musts\\Desktop\\AI_Destekli_Dosya_Özetleme_Ýþ_Asistaný\\app.py', reloading
+2025-04-17 04:02:28,156 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-17 04:03:49,001 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-04-17 04:03:49,002 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: paraphrase-multilingual-MiniLM-L12-v2
+2025-04-17 04:04:06,080 - __main__ - ERROR - Yasal veritabaný yüklenirken hata: [Errno 2] No such file or directory: '/data/legal_database.json'
+2025-04-17 04:04:06,573 - werkzeug - WARNING -  * Debugger is active!
+2025-04-17 04:04:06,588 - werkzeug - INFO -  * Debugger PIN: 962-968-139
+2025-04-17 04:04:27,298 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:04:27] "GET / HTTP/1.1" 200 -
+2025-04-17 04:04:27,377 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:04:27] "[33mGET /static/chatbot/socket.io/socket.io.js HTTP/1.1[0m" 404 -
+2025-04-17 04:04:27,440 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:04:27] "[36mGET /static/chatbot/frontend/index.html HTTP/1.1[0m" 304 -
+2025-04-17 04:04:27,481 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:04:27] "[36mGET /static/chatbot/frontend/styles.css HTTP/1.1[0m" 304 -
+2025-04-17 04:04:27,485 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:04:27] "[36mGET /static/chatbot/frontend/socket.io/socket.io.js HTTP/1.1[0m" 304 -
+2025-04-17 04:04:27,498 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:04:27] "GET /static/chatbot/frontend/script.js HTTP/1.1" 200 -
+2025-04-17 04:04:31,649 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:04:31] "GET / HTTP/1.1" 200 -
+2025-04-17 04:04:31,699 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:04:31] "[36mGET /static/chatbot/frontend/index.html HTTP/1.1[0m" 304 -
+2025-04-17 04:04:31,703 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:04:31] "[33mGET /static/chatbot/socket.io/socket.io.js HTTP/1.1[0m" 404 -
+2025-04-17 04:04:31,729 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:04:31] "[36mGET /static/chatbot/frontend/styles.css HTTP/1.1[0m" 304 -
+2025-04-17 04:04:31,733 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:04:31] "[36mGET /static/chatbot/frontend/socket.io/socket.io.js HTTP/1.1[0m" 304 -
+2025-04-17 04:04:31,738 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:04:31] "[36mGET /static/chatbot/frontend/script.js HTTP/1.1[0m" 304 -
+2025-04-17 04:04:33,742 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:04:33] "GET / HTTP/1.1" 200 -
+2025-04-17 04:04:33,881 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:04:33] "[36mGET /static/chatbot/frontend/index.html HTTP/1.1[0m" 304 -
+2025-04-17 04:04:33,887 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:04:33] "[33mGET /static/chatbot/socket.io/socket.io.js HTTP/1.1[0m" 404 -
+2025-04-17 04:04:33,984 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:04:33] "[36mGET /static/chatbot/frontend/styles.css HTTP/1.1[0m" 304 -
+2025-04-17 04:04:33,991 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:04:33] "[36mGET /static/chatbot/frontend/socket.io/socket.io.js HTTP/1.1[0m" 304 -
+2025-04-17 04:04:33,995 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:04:33] "[36mGET /static/chatbot/frontend/script.js HTTP/1.1[0m" 304 -
+2025-04-17 04:04:37,428 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:04:37] "GET / HTTP/1.1" 200 -
+2025-04-17 04:04:37,472 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:04:37] "[36mGET /static/chatbot/frontend/index.html HTTP/1.1[0m" 304 -
+2025-04-17 04:04:37,476 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:04:37] "[33mGET /static/chatbot/socket.io/socket.io.js HTTP/1.1[0m" 404 -
+2025-04-17 04:04:37,509 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:04:37] "[36mGET /static/chatbot/frontend/styles.css HTTP/1.1[0m" 304 -
+2025-04-17 04:04:37,514 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:04:37] "[36mGET /static/chatbot/frontend/socket.io/socket.io.js HTTP/1.1[0m" 304 -
+2025-04-17 04:04:37,524 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:04:37] "[36mGET /static/chatbot/frontend/script.js HTTP/1.1[0m" 304 -
+2025-04-17 04:04:45,852 - __main__ - WARNING - Invalid content type for /. Received: multipart/form-data; boundary=----WebKitFormBoundary7Z8gRYM3Pi1XVXOM, Expected: application/json
+2025-04-17 04:04:45,853 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:04:45] "[31m[1mPOST / HTTP/1.1[0m" 415 -
+2025-04-17 04:05:41,690 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:05:41] "[33mGET /socket.io/?EIO=4&transport=websocket HTTP/1.1[0m" 404 -
+2025-04-17 04:05:42,621 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:05:42] "[33mGET /socket.io/?EIO=4&transport=websocket HTTP/1.1[0m" 404 -
+2025-04-17 04:05:45,880 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:05:45] "[33mGET /socket.io/?EIO=4&transport=websocket HTTP/1.1[0m" 404 -
+2025-04-17 04:05:50,542 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:05:50] "[33mGET /socket.io/?EIO=4&transport=websocket HTTP/1.1[0m" 404 -
+2025-04-17 04:06:12,115 - werkzeug - INFO -  * Detected change in 'C:\\Users\\musts\\Desktop\\AI_Destekli_Dosya_Özetleme_Ýþ_Asistaný\\app.py', reloading
+2025-04-17 04:06:12,117 - werkzeug - INFO -  * Detected change in 'C:\\Users\\musts\\Desktop\\AI_Destekli_Dosya_Özetleme_Ýþ_Asistaný\\app.py', reloading
+2025-04-17 04:06:12,118 - werkzeug - INFO -  * Detected change in 'C:\\Users\\musts\\Desktop\\AI_Destekli_Dosya_Özetleme_Ýþ_Asistaný\\app.py', reloading
+2025-04-17 04:06:19,781 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-17 04:08:01,405 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-04-17 04:08:01,405 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: paraphrase-multilingual-MiniLM-L12-v2
+2025-04-17 04:08:15,833 - __main__ - ERROR - Yasal veritabaný yüklenirken hata: [Errno 2] No such file or directory: '/data/legal_database.json'
+2025-04-17 04:08:16,307 - werkzeug - WARNING -  * Debugger is active!
+2025-04-17 04:08:16,319 - werkzeug - INFO -  * Debugger PIN: 962-968-139
+2025-04-17 04:08:16,400 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:08:16] "GET / HTTP/1.1" 200 -
+2025-04-17 04:08:16,403 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:08:16] "GET / HTTP/1.1" 200 -
+2025-04-17 04:08:16,406 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:08:16] "GET / HTTP/1.1" 200 -
+2025-04-17 04:08:16,411 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:08:16] "GET / HTTP/1.1" 200 -
+2025-04-17 04:08:16,415 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:08:16] "GET / HTTP/1.1" 200 -
+2025-04-17 04:08:16,416 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:08:16] "[32mPOST / HTTP/1.1[0m" 302 -
+2025-04-17 04:08:16,416 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:08:16] "GET / HTTP/1.1" 200 -
+2025-04-17 04:08:38,965 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:08:38] "GET / HTTP/1.1" 200 -
+2025-04-17 04:08:39,115 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:08:39] "GET /static/chatbot/frontend/index.html HTTP/1.1" 200 -
+2025-04-17 04:08:39,227 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:08:39] "[36mGET /static/chatbot/frontend/styles.css HTTP/1.1[0m" 304 -
+2025-04-17 04:08:39,451 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:08:39] "GET /static/chatbot/frontend/socket.io/socket.io.js HTTP/1.1" 200 -
+2025-04-17 04:08:39,456 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:08:39] "[33mGET /static/chatbot/socket.io/socket.io.js HTTP/1.1[0m" 404 -
+2025-04-17 04:08:39,544 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:08:39] "GET /static/chatbot/frontend/script.js HTTP/1.1" 200 -
+2025-04-17 04:08:39,980 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:08:39] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-17 04:08:51,403 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:08:51] "[32mPOST / HTTP/1.1[0m" 302 -
+2025-04-17 04:08:52,705 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:08:52] "GET /process/Mustafa_CV.docx HTTP/1.1" 200 -
+2025-04-17 04:08:53,121 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:08:53] "[36mGET /static/chatbot/frontend/socket.io/socket.io.js HTTP/1.1[0m" 304 -
+2025-04-17 04:08:54,058 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:08:54] "GET / HTTP/1.1" 200 -
+2025-04-17 04:09:01,977 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:09:01] "[32mPOST / HTTP/1.1[0m" 302 -
+2025-04-17 04:09:03,218 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:09:03] "GET /process/Kira_Sozlesmesi.docx HTTP/1.1" 200 -
+2025-04-17 04:09:03,583 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:09:03] "[36mGET /static/chatbot/frontend/socket.io/socket.io.js HTTP/1.1[0m" 304 -
+2025-04-17 04:10:00,804 - werkzeug - INFO -  * Detected change in 'c:\\Users\\musts\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\_typing\\_shape.py', reloading
+2025-04-17 04:10:01,231 - werkzeug - INFO -  * Detected change in 'c:\\Users\\musts\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\scipy\\sparse\\__init__.py', reloading
+2025-04-17 04:10:01,239 - werkzeug - INFO -  * Detected change in 'c:\\Users\\musts\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\scipy\\sparse\\_base.py', reloading
+2025-04-17 04:10:01,266 - werkzeug - INFO -  * Detected change in 'c:\\Users\\musts\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\scipy\\sparse\\_csr.py', reloading
+2025-04-17 04:10:01,275 - werkzeug - INFO -  * Detected change in 'c:\\Users\\musts\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\scipy\\sparse\\_csc.py', reloading
+2025-04-17 04:10:01,280 - werkzeug - INFO -  * Detected change in 'c:\\Users\\musts\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\scipy\\sparse\\_lil.py', reloading
+2025-04-17 04:10:01,309 - werkzeug - INFO -  * Detected change in 'c:\\Users\\musts\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\scipy\\sparse\\_dok.py', reloading
+2025-04-17 04:10:01,325 - werkzeug - INFO -  * Detected change in 'c:\\Users\\musts\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\scipy\\sparse\\_coo.py', reloading
+2025-04-17 04:10:01,361 - werkzeug - INFO -  * Detected change in 'c:\\Users\\musts\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\scipy\\sparse\\_dia.py', reloading
+2025-04-17 04:10:01,371 - werkzeug - INFO -  * Detected change in 'c:\\Users\\musts\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\scipy\\sparse\\_bsr.py', reloading
+2025-04-17 04:10:01,383 - werkzeug - INFO -  * Detected change in 'c:\\Users\\musts\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\scipy\\sparse\\_construct.py', reloading
+2025-04-17 04:10:01,403 - werkzeug - INFO -  * Detected change in 'c:\\Users\\musts\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\scipy\\sparse\\_extract.py', reloading
+2025-04-17 04:10:01,407 - werkzeug - INFO -  * Detected change in 'c:\\Users\\musts\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\scipy\\sparse\\_matrix_io.py', reloading
+2025-04-17 04:10:01,426 - werkzeug - INFO -  * Detected change in 'c:\\Users\\musts\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\scipy\\sparse\\_matrix.py', reloading
+2025-04-17 04:10:01,647 - werkzeug - INFO -  * Detected change in 'c:\\Users\\musts\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\sentence_transformers\\similarity_functions.py', reloading
+2025-04-17 04:10:01,651 - werkzeug - INFO -  * Detected change in 'c:\\Users\\musts\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\sentence_transformers\\model_card.py', reloading
+2025-04-17 04:10:01,675 - werkzeug - INFO -  * Detected change in 'c:\\Users\\musts\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\huggingface_hub\\__init__.py', reloading
+2025-04-17 04:10:01,697 - werkzeug - INFO -  * Detected change in 'c:\\Users\\musts\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\huggingface_hub\\repocard_data.py', reloading
+2025-04-17 04:10:01,712 - werkzeug - INFO -  * Detected change in 'c:\\Users\\musts\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\huggingface_hub\\utils\\logging.py', reloading
+2025-04-17 04:10:01,716 - werkzeug - INFO -  * Detected change in 'c:\\Users\\musts\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\sentence_transformers\\util.py', reloading
+2025-04-17 04:10:20,775 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-17 04:11:54,415 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-04-17 04:11:54,415 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: paraphrase-multilingual-MiniLM-L12-v2
+2025-04-17 04:12:08,505 - __main__ - ERROR - Yasal veritabaný yüklenirken hata: [Errno 2] No such file or directory: '/data/legal_database.json'
+2025-04-17 04:12:08,969 - werkzeug - WARNING -  * Debugger is active!
+2025-04-17 04:12:08,979 - werkzeug - INFO -  * Debugger PIN: 962-968-139
+2025-04-17 04:12:09,042 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:12:09] "GET / HTTP/1.1" 200 -
+2025-04-17 04:12:09,045 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:12:09] "GET / HTTP/1.1" 200 -
+2025-04-17 04:12:09,049 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:12:09] "GET / HTTP/1.1" 200 -
+2025-04-17 04:12:09,049 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:12:09] "GET / HTTP/1.1" 200 -
+2025-04-17 04:12:09,053 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:12:09] "GET / HTTP/1.1" 200 -
+2025-04-17 04:12:09,055 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:12:09] "GET / HTTP/1.1" 200 -
+2025-04-17 04:12:09,062 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:12:09] "GET / HTTP/1.1" 200 -
+2025-04-17 04:12:09,064 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:12:09] "GET / HTTP/1.1" 200 -
+2025-04-17 04:12:09,068 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:12:09] "GET / HTTP/1.1" 200 -
+2025-04-17 04:12:09,071 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:12:09] "GET / HTTP/1.1" 200 -
+2025-04-17 04:12:09,074 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:12:09] "GET / HTTP/1.1" 200 -
+2025-04-17 04:12:09,077 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:12:09] "GET / HTTP/1.1" 200 -
+2025-04-17 04:12:09,511 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:12:09] "[33mGET /static/chatbot/socket.io/socket.io.js HTTP/1.1[0m" 404 -
+2025-04-17 04:12:09,551 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:12:09] "[36mGET /static/chatbot/frontend/index.html HTTP/1.1[0m" 304 -
+2025-04-17 04:12:09,725 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:12:09] "[36mGET /static/chatbot/frontend/index.html HTTP/1.1[0m" 304 -
+2025-04-17 04:12:09,832 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:12:09] "[36mGET /static/chatbot/frontend/styles.css HTTP/1.1[0m" 304 -
+2025-04-17 04:12:09,866 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:12:09] "[36mGET /static/chatbot/frontend/styles.css HTTP/1.1[0m" 304 -
+2025-04-17 04:12:09,881 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:12:09] "[33mGET /static/chatbot/socket.io/socket.io.js HTTP/1.1[0m" 404 -
+2025-04-17 04:12:09,897 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:12:09] "[36mGET /static/chatbot/frontend/socket.io/socket.io.js HTTP/1.1[0m" 304 -
+2025-04-17 04:12:10,082 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:12:10] "[36mGET /static/chatbot/frontend/script.js HTTP/1.1[0m" 304 -
+2025-04-17 04:12:10,159 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:12:10] "[36mGET /static/chatbot/frontend/socket.io/socket.io.js HTTP/1.1[0m" 304 -
+2025-04-17 04:12:10,211 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:12:10] "[36mGET /static/chatbot/frontend/script.js HTTP/1.1[0m" 304 -
+2025-04-17 04:12:37,883 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:12:37] "[32mPOST / HTTP/1.1[0m" 302 -
+2025-04-17 04:12:39,344 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:12:39] "GET /process/Kira_Sozlesmesi.docx HTTP/1.1" 200 -
+2025-04-17 04:12:39,718 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:12:39] "[36mGET /static/chatbot/frontend/socket.io/socket.io.js HTTP/1.1[0m" 304 -
+2025-04-17 04:12:57,682 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:12:57] "POST /ask HTTP/1.1" 200 -
+2025-04-17 04:12:57,985 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:12:57] "[33mGET /ai-answer?filename=undefined&question=Madde%2520&answer=Yeterli%2520ba%25C4%259Flam%2520veya%2520soru%2520yok&verification=AI%2520taraf%25C4%25B1ndan%2520olu%25C5%259Fturulmu%25C5%259F%2520cevap HTTP/1.1[0m" 404 -
+2025-04-17 04:12:57,995 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:12:57] "POST /ask HTTP/1.1" 200 -
+2025-04-17 04:12:58,005 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:12:58] "POST /ask HTTP/1.1" 200 -
+2025-04-17 04:13:03,739 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:13:03] "GET / HTTP/1.1" 200 -
+2025-04-17 04:13:03,915 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:13:03] "[36mGET /static/chatbot/frontend/index.html HTTP/1.1[0m" 304 -
+2025-04-17 04:13:03,982 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:13:03] "[36mGET /static/chatbot/frontend/styles.css HTTP/1.1[0m" 304 -
+2025-04-17 04:13:04,208 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:13:04] "[33mGET /static/chatbot/socket.io/socket.io.js HTTP/1.1[0m" 404 -
+2025-04-17 04:13:04,272 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:13:04] "[36mGET /static/chatbot/frontend/socket.io/socket.io.js HTTP/1.1[0m" 304 -
+2025-04-17 04:13:04,288 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:13:04] "[36mGET /static/chatbot/frontend/script.js HTTP/1.1[0m" 304 -
+2025-04-17 04:22:32,058 - werkzeug - INFO -  * Detected change in 'C:\\Users\\musts\\Desktop\\AI_Destekli_Dosya_Özetleme_Ýþ_Asistaný\\app.py', reloading
+2025-04-17 04:22:32,059 - werkzeug - INFO -  * Detected change in 'C:\\Users\\musts\\Desktop\\AI_Destekli_Dosya_Özetleme_Ýþ_Asistaný\\app.py', reloading
+2025-04-17 04:27:00,127 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-04-17 04:27:00,128 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: paraphrase-multilingual-MiniLM-L12-v2
+2025-04-17 04:27:09,092 - __main__ - ERROR - Yasal veritabaný yüklenirken hata: [Errno 2] No such file or directory: '/data/legal_database.json'
+2025-04-17 04:27:09,574 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+2025-04-17 04:27:09,574 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-17 04:27:09,593 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-17 04:27:57,371 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-04-17 04:27:57,372 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: paraphrase-multilingual-MiniLM-L12-v2
+2025-04-17 04:28:05,432 - __main__ - ERROR - Yasal veritabaný yüklenirken hata: [Errno 2] No such file or directory: '/data/legal_database.json'
+2025-04-17 04:28:06,100 - werkzeug - WARNING -  * Debugger is active!
+2025-04-17 04:28:06,117 - werkzeug - INFO -  * Debugger PIN: 962-968-139
+2025-04-17 04:28:06,438 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:28:06] "GET / HTTP/1.1" 200 -
+2025-04-17 04:28:06,840 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:28:06] "[33mGET /static/chatbot/socket.io/socket.io.js HTTP/1.1[0m" 404 -
+2025-04-17 04:28:06,891 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:28:06] "[36mGET /static/chatbot/frontend/index.html HTTP/1.1[0m" 304 -
+2025-04-17 04:28:07,085 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:28:07] "[36mGET /static/chatbot/frontend/styles.css HTTP/1.1[0m" 304 -
+2025-04-17 04:28:07,214 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:28:07] "[36mGET /static/chatbot/frontend/socket.io/socket.io.js HTTP/1.1[0m" 304 -
+2025-04-17 04:28:07,221 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:28:07] "[36mGET /static/chatbot/frontend/script.js HTTP/1.1[0m" 304 -
+2025-04-17 04:30:03,520 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:30:03] "[32mPOST / HTTP/1.1[0m" 302 -
+2025-04-17 04:30:04,974 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:30:04] "GET /process/Kira_Sozlesmesi.docx HTTP/1.1" 200 -
+2025-04-17 04:30:32,234 - __main__ - ERROR - Invalid content type: multipart/form-data; boundary=----WebKitFormBoundarywAAuCyRtAMBX3iRL
+2025-04-17 04:30:32,235 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:30:32] "[31m[1mPOST /ask HTTP/1.1[0m" 415 -
+2025-04-17 04:30:43,031 - __main__ - ERROR - Invalid content type: multipart/form-data; boundary=----WebKitFormBoundary1lKBbd9nUoDEGRrG
+2025-04-17 04:30:43,033 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:30:43] "[31m[1mPOST /ask HTTP/1.1[0m" 415 -
+2025-04-17 04:31:52,055 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:31:52] "GET / HTTP/1.1" 200 -
+2025-04-17 04:31:54,229 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:31:54] "[32mPOST / HTTP/1.1[0m" 302 -
+2025-04-17 04:31:54,541 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:31:54] "GET /process/Kira_Sozlesmesi.docx HTTP/1.1" 200 -
+2025-04-17 04:31:58,945 - __main__ - ERROR - Invalid content type: multipart/form-data; boundary=----WebKitFormBoundarytveOvpF201md77dS
+2025-04-17 04:31:58,946 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:31:58] "[31m[1mPOST /ask HTTP/1.1[0m" 415 -
+2025-04-17 04:33:52,143 - werkzeug - INFO -  * Detected change in 'C:\\Users\\musts\\Desktop\\AI_Destekli_Dosya_Özetleme_Ýþ_Asistaný\\app.py', reloading
+2025-04-17 04:33:52,144 - werkzeug - INFO -  * Detected change in 'C:\\Users\\musts\\Desktop\\AI_Destekli_Dosya_Özetleme_Ýþ_Asistaný\\app.py', reloading
+2025-04-17 04:34:02,483 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-17 04:35:54,889 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-04-17 04:35:54,890 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: paraphrase-multilingual-MiniLM-L12-v2
+2025-04-17 04:36:11,020 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+2025-04-17 04:36:11,021 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-17 04:36:11,038 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-17 04:37:06,411 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-04-17 04:37:06,412 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: paraphrase-multilingual-MiniLM-L12-v2
+2025-04-17 04:37:15,947 - werkzeug - WARNING -  * Debugger is active!
+2025-04-17 04:37:15,962 - werkzeug - INFO -  * Debugger PIN: 962-968-139
+2025-04-17 04:37:18,611 - werkzeug - INFO -  * Detected change in 'C:\\Users\\musts\\Desktop\\AI_Destekli_Dosya_Özetleme_Ýþ_Asistaný\\app.py', reloading
+2025-04-17 04:37:18,612 - werkzeug - INFO -  * Detected change in 'C:\\Users\\musts\\Desktop\\AI_Destekli_Dosya_Özetleme_Ýþ_Asistaný\\app.py', reloading
+2025-04-17 04:37:18,612 - werkzeug - INFO -  * Detected change in 'C:\\Users\\musts\\Desktop\\AI_Destekli_Dosya_Özetleme_Ýþ_Asistaný\\app.py', reloading
+2025-04-17 04:40:37,113 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-17 04:41:33,143 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-04-17 04:41:33,144 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: paraphrase-multilingual-MiniLM-L12-v2
+2025-04-17 04:41:41,190 - werkzeug - WARNING -  * Debugger is active!
+2025-04-17 04:41:41,203 - werkzeug - INFO -  * Debugger PIN: 962-968-139
+2025-04-17 04:41:41,284 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:41:41] "GET / HTTP/1.1" 200 -
+2025-04-17 04:41:41,287 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:41:41] "GET / HTTP/1.1" 200 -
+2025-04-17 04:41:41,288 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:41:41] "GET / HTTP/1.1" 200 -
+2025-04-17 04:41:41,288 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:41:41] "GET / HTTP/1.1" 200 -
+2025-04-17 04:41:41,290 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:41:41] "GET / HTTP/1.1" 200 -
+2025-04-17 04:41:48,115 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:41:48] "GET / HTTP/1.1" 200 -
+2025-04-17 04:41:48,302 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:41:48] "[36mGET /static/chatbot/frontend/index.html HTTP/1.1[0m" 304 -
+2025-04-17 04:41:48,521 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:41:48] "[36mGET /static/chatbot/frontend/styles.css HTTP/1.1[0m" 304 -
+2025-04-17 04:41:48,639 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:41:48] "[36mGET /static/chatbot/frontend/socket.io/socket.io.js HTTP/1.1[0m" 304 -
+2025-04-17 04:41:48,641 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:41:48] "[36mGET /static/chatbot/frontend/script.js HTTP/1.1[0m" 304 -
+2025-04-17 04:41:48,654 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:41:48] "[33mGET /static/chatbot/socket.io/socket.io.js HTTP/1.1[0m" 404 -
+2025-04-17 04:42:13,912 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:42:13] "GET /process/Kira_Sozlesmesi.docx HTTP/1.1" 200 -
+2025-04-17 04:42:14,681 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:42:14] "GET / HTTP/1.1" 200 -
+2025-04-17 04:42:14,726 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:42:14] "[36mGET /static/chatbot/frontend/index.html HTTP/1.1[0m" 304 -
+2025-04-17 04:42:15,046 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:42:15] "[36mGET /static/chatbot/frontend/styles.css HTTP/1.1[0m" 304 -
+2025-04-17 04:42:15,053 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:42:15] "[33mGET /static/chatbot/socket.io/socket.io.js HTTP/1.1[0m" 404 -
+2025-04-17 04:42:15,062 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:42:15] "[36mGET /static/chatbot/frontend/socket.io/socket.io.js HTTP/1.1[0m" 304 -
+2025-04-17 04:42:15,069 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:42:15] "[36mGET /static/chatbot/frontend/script.js HTTP/1.1[0m" 304 -
+2025-04-17 04:42:20,653 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:42:20] "[32mPOST / HTTP/1.1[0m" 302 -
+2025-04-17 04:42:22,599 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:42:22] "GET /process/Devlet_Dosyalarn_Ozetleme.docx HTTP/1.1" 200 -
+2025-04-17 04:42:31,146 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:42:31] "[31m[1mPOST /process/Devlet_Dosyalarn_Ozetleme.docx HTTP/1.1[0m" 405 -
+2025-04-17 04:42:38,188 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:42:38] "GET / HTTP/1.1" 200 -
+2025-04-17 04:42:40,861 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:42:40] "[32mPOST / HTTP/1.1[0m" 302 -
+2025-04-17 04:42:42,953 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:42:42] "GET /process/Devlet_Dosyalarn_Ozetleme.docx HTTP/1.1" 200 -
+2025-04-17 04:42:47,517 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 04:42:47] "[31m[1mPOST /process/Devlet_Dosyalarn_Ozetleme.docx HTTP/1.1[0m" 405 -
+2025-04-17 04:43:34,406 - werkzeug - INFO -  * Detected change in 'c:\\Users\\musts\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pptx\\shapes\\shapetree.py', reloading
+2025-04-17 05:07:30,151 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-04-17 05:07:30,158 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: paraphrase-multilingual-MiniLM-L12-v2
+2025-04-17 05:07:38,522 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+2025-04-17 05:07:38,523 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-17 05:07:38,546 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-17 05:08:38,369 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-04-17 05:08:38,374 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: paraphrase-multilingual-MiniLM-L12-v2
+2025-04-17 05:08:47,446 - werkzeug - WARNING -  * Debugger is active!
+2025-04-17 05:08:47,474 - werkzeug - INFO -  * Debugger PIN: 962-968-139
+2025-04-17 05:08:48,744 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:08:48] "GET / HTTP/1.1" 200 -
+2025-04-17 05:08:48,744 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:08:48] "GET / HTTP/1.1" 200 -
+2025-04-17 05:08:49,151 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:08:49] "[33mGET /static/chatbot/socket.io/socket.io.js HTTP/1.1[0m" 404 -
+2025-04-17 05:08:49,195 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:08:49] "[36mGET /static/chatbot/frontend/index.html HTTP/1.1[0m" 304 -
+2025-04-17 05:08:49,355 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:08:49] "[36mGET /static/chatbot/frontend/styles.css HTTP/1.1[0m" 304 -
+2025-04-17 05:08:49,518 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:08:49] "[36mGET /static/chatbot/frontend/socket.io/socket.io.js HTTP/1.1[0m" 304 -
+2025-04-17 05:08:49,527 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:08:49] "[36mGET /static/chatbot/frontend/script.js HTTP/1.1[0m" 304 -
+2025-04-17 05:13:35,811 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:13:35] "[32mPOST / HTTP/1.1[0m" 302 -
+2025-04-17 05:13:38,939 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:13:38] "GET /process/Kira_Sozlesmesi.docx HTTP/1.1" 200 -
+2025-04-17 05:13:58,403 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:13:58] "[31m[1mPOST /process/Kira_Sozlesmesi.docx HTTP/1.1[0m" 405 -
+2025-04-17 05:14:45,112 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:14:45] "[31m[1mPOST /process/Kira_Sozlesmesi.docx HTTP/1.1[0m" 405 -
+2025-04-17 05:14:48,088 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:14:48] "[31m[1mPOST /process/Kira_Sozlesmesi.docx HTTP/1.1[0m" 405 -
+2025-04-17 05:14:50,932 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:14:50] "GET /process/Kira_Sozlesmesi.docx HTTP/1.1" 200 -
+2025-04-17 05:14:52,868 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:14:52] "[31m[1mPOST /process/Kira_Sozlesmesi.docx HTTP/1.1[0m" 405 -
+2025-04-17 05:14:56,610 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:14:56] "GET / HTTP/1.1" 200 -
+2025-04-17 05:14:57,892 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:14:57] "[32mPOST / HTTP/1.1[0m" 302 -
+2025-04-17 05:15:00,109 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:15:00] "GET /process/Kira_Sozlesmesi.docx HTTP/1.1" 200 -
+2025-04-17 05:15:02,356 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:15:02] "[31m[1mPOST /process/Kira_Sozlesmesi.docx HTTP/1.1[0m" 405 -
+2025-04-17 05:15:08,903 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:15:08] "[31m[1mPOST /process/Kira_Sozlesmesi.docx HTTP/1.1[0m" 405 -
+2025-04-17 05:15:44,299 - werkzeug - INFO -  * Detected change in 'c:\\Users\\musts\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\werkzeug\\datastructures\\structures.py', reloading
+2025-04-17 05:17:51,209 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-17 05:18:47,238 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-04-17 05:18:47,238 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: paraphrase-multilingual-MiniLM-L12-v2
+2025-04-17 05:28:06,067 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-04-17 05:28:06,068 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: paraphrase-multilingual-MiniLM-L12-v2
+2025-04-17 05:28:14,772 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+2025-04-17 05:28:14,773 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-17 05:28:14,789 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-17 05:29:10,368 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-04-17 05:29:10,371 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: paraphrase-multilingual-MiniLM-L12-v2
+2025-04-17 05:29:20,568 - werkzeug - WARNING -  * Debugger is active!
+2025-04-17 05:29:20,585 - werkzeug - INFO -  * Debugger PIN: 962-968-139
+2025-04-17 05:29:21,785 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:29:21] "GET / HTTP/1.1" 200 -
+2025-04-17 05:29:22,225 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:29:22] "[36mGET /static/chatbot/frontend/index.html HTTP/1.1[0m" 304 -
+2025-04-17 05:29:22,232 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:29:22] "[36mGET /static/chatbot/frontend/socket.io/socket.io.js HTTP/1.1[0m" 304 -
+2025-04-17 05:29:22,432 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:29:22] "[36mGET /static/chatbot/frontend/styles.css HTTP/1.1[0m" 304 -
+2025-04-17 05:29:22,566 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:29:22] "[36mGET /static/chatbot/frontend/socket.io/socket.io.js HTTP/1.1[0m" 304 -
+2025-04-17 05:29:22,567 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:29:22] "[36mGET /static/chatbot/frontend/script.js HTTP/1.1[0m" 304 -
+2025-04-17 05:29:31,540 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:29:31] "GET / HTTP/1.1" 200 -
+2025-04-17 05:29:31,856 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:29:31] "[36mGET /static/chatbot/frontend/index.html HTTP/1.1[0m" 304 -
+2025-04-17 05:29:31,920 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:29:31] "[36mGET /static/chatbot/frontend/styles.css HTTP/1.1[0m" 304 -
+2025-04-17 05:29:32,206 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:29:32] "[36mGET /static/chatbot/frontend/socket.io/socket.io.js HTTP/1.1[0m" 304 -
+2025-04-17 05:29:32,215 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:29:32] "[36mGET /static/chatbot/frontend/script.js HTTP/1.1[0m" 304 -
+2025-04-17 05:29:32,533 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:29:32] "[36mGET /static/chatbot/frontend/socket.io/socket.io.js HTTP/1.1[0m" 304 -
+2025-04-17 05:29:58,846 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:29:58] "GET / HTTP/1.1" 200 -
+2025-04-17 05:29:58,923 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:29:58] "[36mGET /static/chatbot/frontend/index.html HTTP/1.1[0m" 304 -
+2025-04-17 05:29:59,022 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:29:59] "[36mGET /static/chatbot/frontend/styles.css HTTP/1.1[0m" 304 -
+2025-04-17 05:29:59,272 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:29:59] "[36mGET /static/chatbot/frontend/socket.io/socket.io.js HTTP/1.1[0m" 304 -
+2025-04-17 05:29:59,287 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:29:59] "[36mGET /static/chatbot/frontend/script.js HTTP/1.1[0m" 304 -
+2025-04-17 05:29:59,600 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:29:59] "[36mGET /static/chatbot/frontend/socket.io/socket.io.js HTTP/1.1[0m" 304 -
+2025-04-17 05:30:09,533 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:30:09] "[32mPOST / HTTP/1.1[0m" 302 -
+2025-04-17 05:30:12,350 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:30:12] "GET /process/Devlet_Dosyalarn_Ozetleme.docx HTTP/1.1" 200 -
+2025-04-17 05:30:12,425 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:30:12] "[36mGET /static/chatbot/frontend/index.html HTTP/1.1[0m" 304 -
+2025-04-17 05:30:12,739 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:30:12] "[36mGET /static/chatbot/frontend/styles.css HTTP/1.1[0m" 304 -
+2025-04-17 05:30:12,773 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:30:12] "[36mGET /static/chatbot/frontend/socket.io/socket.io.js HTTP/1.1[0m" 304 -
+2025-04-17 05:30:12,778 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:30:12] "[36mGET /static/chatbot/frontend/script.js HTTP/1.1[0m" 304 -
+2025-04-17 05:30:13,087 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:30:13] "[36mGET /static/chatbot/frontend/socket.io/socket.io.js HTTP/1.1[0m" 304 -
+2025-04-17 05:30:29,621 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:30:29] "GET / HTTP/1.1" 200 -
+2025-04-17 05:31:50,551 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:31:50] "GET / HTTP/1.1" 200 -
+2025-04-17 05:31:50,669 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:31:50] "[36mGET /static/chatbot/frontend/index.html HTTP/1.1[0m" 304 -
+2025-04-17 05:31:50,810 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:31:50] "[36mGET /static/chatbot/frontend/styles.css HTTP/1.1[0m" 304 -
+2025-04-17 05:31:51,045 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:31:51] "[36mGET /static/chatbot/frontend/socket.io/socket.io.js HTTP/1.1[0m" 304 -
+2025-04-17 05:31:51,049 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:31:51] "[36mGET /static/chatbot/frontend/script.js HTTP/1.1[0m" 304 -
+2025-04-17 05:31:51,357 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:31:51] "[36mGET /static/chatbot/frontend/socket.io/socket.io.js HTTP/1.1[0m" 304 -
+2025-04-17 05:32:05,366 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:32:05] "[32mPOST / HTTP/1.1[0m" 302 -
+2025-04-17 05:32:08,895 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:32:08] "GET /process/Kira_Sozlesmesi.docx HTTP/1.1" 200 -
+2025-04-17 05:32:09,011 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:32:09] "[36mGET /static/chatbot/frontend/index.html HTTP/1.1[0m" 304 -
+2025-04-17 05:32:09,316 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:32:09] "[36mGET /static/chatbot/frontend/styles.css HTTP/1.1[0m" 304 -
+2025-04-17 05:32:09,384 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:32:09] "[36mGET /static/chatbot/frontend/socket.io/socket.io.js HTTP/1.1[0m" 304 -
+2025-04-17 05:32:09,386 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:32:09] "[36mGET /static/chatbot/frontend/script.js HTTP/1.1[0m" 304 -
+2025-04-17 05:32:09,694 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:32:09] "[36mGET /static/chatbot/frontend/socket.io/socket.io.js HTTP/1.1[0m" 304 -
+2025-04-17 05:32:52,769 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:32:52] "GET /process/Kira_Sozlesmesi.docx HTTP/1.1" 200 -
+2025-04-17 05:32:52,875 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:32:52] "[36mGET /static/chatbot/frontend/index.html HTTP/1.1[0m" 304 -
+2025-04-17 05:32:52,877 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:32:52] "[36mGET /static/chatbot/frontend/socket.io/socket.io.js HTTP/1.1[0m" 304 -
+2025-04-17 05:32:53,219 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:32:53] "[36mGET /static/chatbot/frontend/styles.css HTTP/1.1[0m" 304 -
+2025-04-17 05:32:53,227 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:32:53] "[36mGET /static/chatbot/frontend/socket.io/socket.io.js HTTP/1.1[0m" 304 -
+2025-04-17 05:32:53,239 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:32:53] "[36mGET /static/chatbot/frontend/script.js HTTP/1.1[0m" 304 -
+2025-04-17 05:33:33,637 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:33:33] "GET / HTTP/1.1" 200 -
+2025-04-17 05:34:00,047 - werkzeug - INFO -  * Detected change in 'C:\\Users\\musts\\Desktop\\AI_Destekli_Dosya_Özetleme_Ýþ_Asistaný\\app.py', reloading
+2025-04-17 05:34:00,048 - werkzeug - INFO -  * Detected change in 'C:\\Users\\musts\\Desktop\\AI_Destekli_Dosya_Özetleme_Ýþ_Asistaný\\app.py', reloading
+2025-04-17 05:34:00,049 - werkzeug - INFO -  * Detected change in 'C:\\Users\\musts\\Desktop\\AI_Destekli_Dosya_Özetleme_Ýþ_Asistaný\\app.py', reloading
+2025-04-17 05:41:58,021 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-04-17 05:41:58,031 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: paraphrase-multilingual-MiniLM-L12-v2
+2025-04-17 05:42:07,698 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+2025-04-17 05:42:07,698 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-17 05:42:07,720 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-17 05:43:06,034 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-04-17 05:43:06,037 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: paraphrase-multilingual-MiniLM-L12-v2
+2025-04-17 05:43:15,925 - werkzeug - WARNING -  * Debugger is active!
+2025-04-17 05:43:15,945 - werkzeug - INFO -  * Debugger PIN: 962-968-139
+2025-04-17 05:43:16,680 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:43:16] "GET / HTTP/1.1" 200 -
+2025-04-17 05:43:16,680 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:43:16] "GET / HTTP/1.1" 200 -
+2025-04-17 05:43:17,152 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:43:17] "[36mGET /static/chatbot/frontend/index.html HTTP/1.1[0m" 304 -
+2025-04-17 05:43:17,163 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:43:17] "[36mGET /static/chatbot/frontend/socket.io/socket.io.js HTTP/1.1[0m" 304 -
+2025-04-17 05:43:17,335 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:43:17] "[36mGET /static/chatbot/frontend/styles.css HTTP/1.1[0m" 304 -
+2025-04-17 05:43:17,479 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:43:17] "[36mGET /static/chatbot/frontend/socket.io/socket.io.js HTTP/1.1[0m" 304 -
+2025-04-17 05:43:17,496 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:43:17] "[36mGET /static/chatbot/frontend/script.js HTTP/1.1[0m" 304 -
+2025-04-17 05:43:58,653 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:43:58] "[32mPOST / HTTP/1.1[0m" 302 -
+2025-04-17 05:44:02,024 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:44:02] "GET /process/Kira_Sozlesmesi.docx HTTP/1.1" 200 -
+2025-04-17 05:44:02,408 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:44:02] "[36mGET /static/chatbot/frontend/index.html HTTP/1.1[0m" 304 -
+2025-04-17 05:44:02,426 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:44:02] "[36mGET /static/chatbot/frontend/socket.io/socket.io.js HTTP/1.1[0m" 304 -
+2025-04-17 05:44:02,669 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:44:02] "[36mGET /static/chatbot/frontend/styles.css HTTP/1.1[0m" 304 -
+2025-04-17 05:44:02,781 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:44:02] "[36mGET /static/chatbot/frontend/socket.io/socket.io.js HTTP/1.1[0m" 304 -
+2025-04-17 05:44:02,792 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:44:02] "[36mGET /static/chatbot/frontend/script.js HTTP/1.1[0m" 304 -
+2025-04-17 05:44:26,350 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:44:26] "GET / HTTP/1.1" 200 -
+2025-04-17 05:44:26,655 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:44:26] "[36mGET /static/chatbot/frontend/index.html HTTP/1.1[0m" 304 -
+2025-04-17 05:44:26,762 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:44:26] "[36mGET /static/chatbot/frontend/styles.css HTTP/1.1[0m" 304 -
+2025-04-17 05:44:27,002 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:44:27] "[36mGET /static/chatbot/frontend/socket.io/socket.io.js HTTP/1.1[0m" 304 -
+2025-04-17 05:44:27,005 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:44:27] "[36mGET /static/chatbot/frontend/script.js HTTP/1.1[0m" 304 -
+2025-04-17 05:44:27,325 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:44:27] "[36mGET /static/chatbot/frontend/socket.io/socket.io.js HTTP/1.1[0m" 304 -
+2025-04-17 05:44:50,423 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:44:50] "[32mPOST / HTTP/1.1[0m" 302 -
+2025-04-17 05:44:54,020 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:44:54] "GET /process/Kira_Sozlesmesi.docx HTTP/1.1" 200 -
+2025-04-17 05:44:54,144 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:44:54] "[36mGET /static/chatbot/frontend/index.html HTTP/1.1[0m" 304 -
+2025-04-17 05:44:54,459 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:44:54] "[36mGET /static/chatbot/frontend/styles.css HTTP/1.1[0m" 304 -
+2025-04-17 05:44:54,507 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:44:54] "[36mGET /static/chatbot/frontend/socket.io/socket.io.js HTTP/1.1[0m" 304 -
+2025-04-17 05:44:54,509 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:44:54] "[36mGET /static/chatbot/frontend/script.js HTTP/1.1[0m" 304 -
+2025-04-17 05:44:54,825 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:44:54] "[36mGET /static/chatbot/frontend/socket.io/socket.io.js HTTP/1.1[0m" 304 -
+2025-04-17 05:51:48,685 - werkzeug - INFO -  * Detected change in 'c:\\Users\\musts\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\json\\__init__.py', reloading
+2025-04-17 05:54:08,058 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-04-17 05:54:08,058 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: paraphrase-multilingual-MiniLM-L12-v2
+2025-04-17 05:54:16,514 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+2025-04-17 05:54:16,515 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-17 05:54:16,534 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-17 05:55:08,294 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-04-17 05:55:08,296 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: paraphrase-multilingual-MiniLM-L12-v2
+2025-04-17 05:55:17,299 - werkzeug - WARNING -  * Debugger is active!
+2025-04-17 05:55:17,316 - werkzeug - INFO -  * Debugger PIN: 962-968-139
+2025-04-17 05:55:17,858 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:55:17] "GET / HTTP/1.1" 200 -
+2025-04-17 05:55:17,858 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:55:17] "GET / HTTP/1.1" 200 -
+2025-04-17 05:55:17,859 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:55:17] "GET / HTTP/1.1" 200 -
+2025-04-17 05:55:17,863 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:55:17] "GET / HTTP/1.1" 200 -
+2025-04-17 05:55:18,316 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:55:18] "[36mGET /static/chatbot/frontend/index.html HTTP/1.1[0m" 304 -
+2025-04-17 05:55:18,318 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:55:18] "[36mGET /static/chatbot/frontend/socket.io/socket.io.js HTTP/1.1[0m" 304 -
+2025-04-17 05:55:18,471 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:55:18] "[36mGET /static/chatbot/frontend/styles.css HTTP/1.1[0m" 304 -
+2025-04-17 05:55:18,647 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:55:18] "[36mGET /static/chatbot/frontend/socket.io/socket.io.js HTTP/1.1[0m" 304 -
+2025-04-17 05:55:18,652 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:55:18] "[36mGET /static/chatbot/frontend/script.js HTTP/1.1[0m" 304 -
+2025-04-17 05:55:58,390 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:55:58] "[32mPOST / HTTP/1.1[0m" 302 -
+2025-04-17 05:56:01,058 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:56:01] "GET /process/Kira_Sozlesmesi.docx HTTP/1.1" 200 -
+2025-04-17 05:56:01,422 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:56:01] "[36mGET /static/chatbot/frontend/index.html HTTP/1.1[0m" 304 -
+2025-04-17 05:56:01,433 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:56:01] "[36mGET /static/chatbot/frontend/socket.io/socket.io.js HTTP/1.1[0m" 304 -
+2025-04-17 05:56:01,689 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:56:01] "[36mGET /static/chatbot/frontend/styles.css HTTP/1.1[0m" 304 -
+2025-04-17 05:56:01,752 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:56:01] "[36mGET /static/chatbot/frontend/socket.io/socket.io.js HTTP/1.1[0m" 304 -
+2025-04-17 05:56:01,759 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:56:01] "[36mGET /static/chatbot/frontend/script.js HTTP/1.1[0m" 304 -
+2025-04-17 05:56:18,969 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:56:18] "GET /process/Kira_Sozlesmesi.docx HTTP/1.1" 200 -
+2025-04-17 05:56:19,014 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:56:19] "[36mGET /static/chatbot/frontend/index.html HTTP/1.1[0m" 304 -
+2025-04-17 05:56:19,337 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:56:19] "[36mGET /static/chatbot/frontend/styles.css HTTP/1.1[0m" 304 -
+2025-04-17 05:56:19,361 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:56:19] "[36mGET /static/chatbot/frontend/socket.io/socket.io.js HTTP/1.1[0m" 304 -
+2025-04-17 05:56:19,366 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:56:19] "[36mGET /static/chatbot/frontend/script.js HTTP/1.1[0m" 304 -
+2025-04-17 05:56:19,682 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:56:19] "[36mGET /static/chatbot/frontend/socket.io/socket.io.js HTTP/1.1[0m" 304 -
+2025-04-17 05:56:27,842 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:56:27] "GET /process/Kira_Sozlesmesi.docx HTTP/1.1" 200 -
+2025-04-17 05:56:27,890 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:56:27] "[36mGET /static/chatbot/frontend/socket.io/socket.io.js HTTP/1.1[0m" 304 -
+2025-04-17 05:56:27,891 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:56:27] "[36mGET /static/chatbot/frontend/index.html HTTP/1.1[0m" 304 -
+2025-04-17 05:56:28,234 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:56:28] "[36mGET /static/chatbot/frontend/socket.io/socket.io.js HTTP/1.1[0m" 304 -
+2025-04-17 05:56:28,241 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:56:28] "[36mGET /static/chatbot/frontend/script.js HTTP/1.1[0m" 304 -
+2025-04-17 05:56:28,247 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 05:56:28] "[36mGET /static/chatbot/frontend/styles.css HTTP/1.1[0m" 304 -
+2025-04-17 05:59:01,714 - werkzeug - INFO -  * Detected change in 'C:\\Users\\musts\\Desktop\\AI_Destekli_Dosya_Özetleme_Ýþ_Asistaný\\app.py', reloading
+2025-04-17 05:59:01,716 - werkzeug - INFO -  * Detected change in 'C:\\Users\\musts\\Desktop\\AI_Destekli_Dosya_Özetleme_Ýþ_Asistaný\\app.py', reloading
+2025-04-17 05:59:53,046 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-17 06:00:56,926 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-04-17 06:00:56,926 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: paraphrase-multilingual-MiniLM-L12-v2
+2025-04-17 06:01:04,795 - werkzeug - WARNING -  * Debugger is active!
+2025-04-17 06:01:04,810 - werkzeug - INFO -  * Debugger PIN: 962-968-139
+2025-04-17 06:01:56,584 - werkzeug - INFO -  * Detected change in 'C:\\Users\\musts\\Desktop\\AI_Destekli_Dosya_Özetleme_Ýþ_Asistaný\\app.py', reloading
+2025-04-17 06:01:56,585 - werkzeug - INFO -  * Detected change in 'C:\\Users\\musts\\Desktop\\AI_Destekli_Dosya_Özetleme_Ýþ_Asistaný\\app.py', reloading
+2025-04-17 06:02:02,941 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-17 06:02:56,325 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-04-17 06:02:56,325 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: paraphrase-multilingual-MiniLM-L12-v2
+2025-04-17 06:03:06,566 - werkzeug - WARNING -  * Debugger is active!
+2025-04-17 06:03:06,579 - werkzeug - INFO -  * Debugger PIN: 962-968-139
+2025-04-17 06:03:18,843 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 06:03:18] "GET / HTTP/1.1" 200 -
+2025-04-17 06:03:20,877 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 06:03:20] "GET / HTTP/1.1" 200 -
+2025-04-17 06:03:20,999 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 06:03:20] "[36mGET /static/chatbot/frontend/index.html HTTP/1.1[0m" 304 -
+2025-04-17 06:03:21,242 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 06:03:21] "[36mGET /static/chatbot/frontend/styles.css HTTP/1.1[0m" 304 -
+2025-04-17 06:03:21,322 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 06:03:21] "[36mGET /static/chatbot/frontend/socket.io/socket.io.js HTTP/1.1[0m" 304 -
+2025-04-17 06:03:21,325 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 06:03:21] "[36mGET /static/chatbot/frontend/script.js HTTP/1.1[0m" 304 -
+2025-04-17 06:03:21,640 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 06:03:21] "[36mGET /static/chatbot/frontend/socket.io/socket.io.js HTTP/1.1[0m" 304 -
+2025-04-17 06:03:31,018 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 06:03:31] "[32mPOST / HTTP/1.1[0m" 302 -
+2025-04-17 06:03:33,414 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 06:03:33] "GET /process/Kira_Sozlesmesi.docx HTTP/1.1" 200 -
+2025-04-17 06:03:33,485 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 06:03:33] "[36mGET /static/chatbot/frontend/index.html HTTP/1.1[0m" 304 -
+2025-04-17 06:03:33,803 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 06:03:33] "[36mGET /static/chatbot/frontend/styles.css HTTP/1.1[0m" 304 -
+2025-04-17 06:03:33,840 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 06:03:33] "[36mGET /static/chatbot/frontend/socket.io/socket.io.js HTTP/1.1[0m" 304 -
+2025-04-17 06:03:33,846 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 06:03:33] "[36mGET /static/chatbot/frontend/script.js HTTP/1.1[0m" 304 -
+2025-04-17 06:03:34,173 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 06:03:34] "[36mGET /static/chatbot/frontend/socket.io/socket.io.js HTTP/1.1[0m" 304 -
+2025-04-17 06:04:15,539 - werkzeug - INFO -  * Detected change in 'C:\\Users\\musts\\Desktop\\AI_Destekli_Dosya_Özetleme_Ýþ_Asistaný\\app.py', reloading
+2025-04-17 06:04:15,542 - werkzeug - INFO -  * Detected change in 'C:\\Users\\musts\\Desktop\\AI_Destekli_Dosya_Özetleme_Ýþ_Asistaný\\app.py', reloading
+2025-04-17 06:04:15,543 - werkzeug - INFO -  * Detected change in 'C:\\Users\\musts\\Desktop\\AI_Destekli_Dosya_Özetleme_Ýþ_Asistaný\\app.py', reloading
+2025-04-17 06:05:35,074 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-04-17 06:05:35,075 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: paraphrase-multilingual-MiniLM-L12-v2
+2025-04-17 06:05:44,224 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+2025-04-17 06:05:44,224 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-17 06:05:44,246 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-17 06:06:47,923 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-04-17 06:06:47,925 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: paraphrase-multilingual-MiniLM-L12-v2
+2025-04-17 06:06:57,760 - werkzeug - WARNING -  * Debugger is active!
+2025-04-17 06:06:57,775 - werkzeug - INFO -  * Debugger PIN: 962-968-139
+2025-04-17 06:06:58,764 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 06:06:58] "GET / HTTP/1.1" 200 -
+2025-04-17 06:06:58,764 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 06:06:58] "GET / HTTP/1.1" 200 -
+2025-04-17 06:06:58,765 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 06:06:58] "GET / HTTP/1.1" 200 -
+2025-04-17 06:06:58,768 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 06:06:58] "GET / HTTP/1.1" 200 -
+2025-04-17 06:06:58,791 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 06:06:58] "[33mGET /process/presentations/Kira_Sozlesmesi_sunum.pptx HTTP/1.1[0m" 404 -
+2025-04-17 06:06:59,291 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 06:06:59] "[36mGET /static/chatbot/frontend/index.html HTTP/1.1[0m" 304 -
+2025-04-17 06:06:59,294 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 06:06:59] "[36mGET /static/chatbot/frontend/socket.io/socket.io.js HTTP/1.1[0m" 304 -
+2025-04-17 06:06:59,465 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 06:06:59] "GET /static/chatbot/frontend/index.html HTTP/1.1" 200 -
+2025-04-17 06:06:59,603 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 06:06:59] "[36mGET /static/chatbot/frontend/styles.css HTTP/1.1[0m" 304 -
+2025-04-17 06:06:59,606 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 06:06:59] "[36mGET /static/chatbot/frontend/socket.io/socket.io.js HTTP/1.1[0m" 304 -
+2025-04-17 06:06:59,795 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 06:06:59] "[36mGET /static/chatbot/frontend/script.js HTTP/1.1[0m" 304 -
+2025-04-17 06:06:59,802 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 06:06:59] "[36mGET /static/chatbot/frontend/socket.io/socket.io.js HTTP/1.1[0m" 304 -
+2025-04-17 06:07:04,330 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 06:07:04] "[32mPOST / HTTP/1.1[0m" 302 -
+2025-04-17 06:07:07,627 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 06:07:07] "GET /process/Kira_Sozlesmesi.docx HTTP/1.1" 200 -
+2025-04-17 06:07:08,027 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 06:07:08] "[36mGET /static/chatbot/frontend/index.html HTTP/1.1[0m" 304 -
+2025-04-17 06:07:08,037 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 06:07:08] "[36mGET /static/chatbot/frontend/socket.io/socket.io.js HTTP/1.1[0m" 304 -
+2025-04-17 06:07:08,261 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 06:07:08] "[36mGET /static/chatbot/frontend/styles.css HTTP/1.1[0m" 304 -
+2025-04-17 06:07:08,398 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 06:07:08] "[36mGET /static/chatbot/frontend/socket.io/socket.io.js HTTP/1.1[0m" 304 -
+2025-04-17 06:07:08,403 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 06:07:08] "[36mGET /static/chatbot/frontend/script.js HTTP/1.1[0m" 304 -
+2025-04-17 06:07:21,275 - werkzeug - INFO -  * Detected change in 'c:\\Users\\musts\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\transformers\\models\\auto\\tokenization_auto.py', reloading
+2025-04-17 17:11:20,508 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-04-17 17:11:20,509 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: paraphrase-multilingual-MiniLM-L12-v2
+2025-04-17 17:11:29,187 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+2025-04-17 17:11:29,188 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-17 17:11:29,225 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-17 17:12:52,654 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-04-17 17:12:52,657 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: paraphrase-multilingual-MiniLM-L12-v2
+2025-04-17 17:13:03,247 - werkzeug - WARNING -  * Debugger is active!
+2025-04-17 17:13:03,262 - werkzeug - INFO -  * Debugger PIN: 962-968-139
+2025-04-17 17:13:03,828 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 17:13:03] "GET / HTTP/1.1" 200 -
+2025-04-17 17:13:04,331 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 17:13:04] "GET /static/chatbot/frontend/index.html HTTP/1.1" 200 -
+2025-04-17 17:13:04,453 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 17:13:04] "GET /static/chatbot/frontend/styles.css HTTP/1.1" 200 -
+2025-04-17 17:13:04,574 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 17:13:04] "GET /static/chatbot/frontend/socket.io/socket.io.js HTTP/1.1" 200 -
+2025-04-17 17:13:04,655 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 17:13:04] "[36mGET /static/chatbot/frontend/socket.io/socket.io.js HTTP/1.1[0m" 304 -
+2025-04-17 17:13:04,684 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 17:13:04] "GET /static/chatbot/frontend/script.js HTTP/1.1" 200 -
+2025-04-17 17:13:05,778 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 17:13:05] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-17 17:16:11,430 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 17:16:11] "[32mPOST / HTTP/1.1[0m" 302 -
+2025-04-17 17:16:15,072 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 17:16:15] "GET /process/Kira_Sozlesmesi.docx HTTP/1.1" 200 -
+2025-04-17 17:16:15,160 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 17:16:15] "[36mGET /static/chatbot/frontend/index.html HTTP/1.1[0m" 304 -
+2025-04-17 17:16:15,466 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 17:16:15] "[36mGET /static/chatbot/frontend/styles.css HTTP/1.1[0m" 304 -
+2025-04-17 17:16:15,511 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 17:16:15] "[36mGET /static/chatbot/frontend/socket.io/socket.io.js HTTP/1.1[0m" 304 -
+2025-04-17 17:16:15,517 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 17:16:15] "[36mGET /static/chatbot/frontend/script.js HTTP/1.1[0m" 304 -
+2025-04-17 17:16:15,826 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 17:16:15] "[36mGET /static/chatbot/frontend/socket.io/socket.io.js HTTP/1.1[0m" 304 -
